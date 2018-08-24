@@ -11,9 +11,9 @@
 ## Description
 
 ### Understanding the repo
-1. Download [handson.zip](handson.zip) and unzip it. handson is a repository. Using the commandline change the directory to "handson/"
+1. Download [handson.zip](handson.zip) and unzip it. handson is a git repository. Using the commandline change the directory to "handson/"
 
-2. Draw a diagram of the commits and branches in Project.
+2. Draw a diagram of the commits and branches in repository.
 
     - Use `git branch` to list the branches in this repository.
     - Use `git checkout` to explore each branch.
