@@ -1,6 +1,6 @@
 # List of Topics of Interest for Short Talks
 
-###(Add more as desired)
+### (Add more as desired)
 
 * Bots on GitHub
 * Innersourcing
