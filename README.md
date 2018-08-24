@@ -14,12 +14,9 @@ The main book for this course is:
 * FOGEL, Karl. **Producing Open Source Software**. O'Reilly. Available online:  http://producingoss.com (Creative Commons)
 
 ## Navigate the course
-[Class outline](outline.md)
-
-[Assignment list](assignments.md)
-
-[Papers for Essays (extras) and discussions](papers.md)
-
+[Class outline](outline.md)<br>
+[Assignment list](assignments.md)<br>
+[Papers for Essays (extras) and discussions](papers.md)<br>
 [Topics for short talks](shorttalks.md)
 
 ## Course Purpose
