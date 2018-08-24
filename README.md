@@ -8,6 +8,10 @@
 
 **SLACK:** Please hangout, discuss, create channels for specific groups and issues. [Click here](https://join.slack.com/t/oss-nau/shared_invite/enQtNDIyNDgwMzQxNTA2LTBlYzI2YTI3OGIyZWQzMDM4MzdlMGRlNjdlYjgzNWU3NDI1MmE0MjQyNDNhZDEwZjVlODAxMWE2N2MzZGIwZTk)  to join the course Slack 
 
+## Groups
+
+Please, list your group in the [group page](groups.md). Do it by [changing it](groups.md) and submitting a pull request.
+
 ## Reference
 
 The main book for this course is:
