@@ -68,7 +68,7 @@
 
    ```
 
-9. Change back to the `master` branch and change B.java adding the following source code:
+9. Change back to the `master` branch and change B.java adding the following source code (commit your change to `master`):
    ```
    public static void main(){
       System.out.println("Hi")
@@ -81,18 +81,21 @@
 
 
    ```
+   
 11. What happened?
    ```
 
 
 
    ```
+   
 12. Write a set of commands to abort the merge
    ```
 
 
 
    ```
+   
 13. Now repeat item 10, but proceed with the manual merge (Editing B.java). All implemented methods are needed. Explain your procedure
    ```
 
