@@ -21,7 +21,7 @@ The main book for this course is:
 [Class outline](outline.md)<br>
 [Assignment list](assignments.md)<br>
 [Papers for Essays (extras) and discussions](papers.md)<br>
-[Topics for short talks](shorttalks.md)
+[Topics for short talks](shorttalks.md)<br>
 [Groups](groups.md) (List your group here)
 
 ## Course Purpose
