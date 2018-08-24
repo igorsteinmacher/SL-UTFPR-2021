@@ -6,6 +6,8 @@
 
 **Office Hours**: TuTh 09:30AM – 11:20AM; Room 090-115. I also welcome and encourage students to **_schedule appointments in different hours_**.
 
+**SLACK:** Please hangout, discuss, create channels for specific groups and issues. [Click here](https://join.slack.com/t/oss-nau/shared_invite/enQtNDIyNDgwMzQxNTA2LTBlYzI2YTI3OGIyZWQzMDM4MzdlMGRlNjdlYjgzNWU3NDI1MmE0MjQyNDNhZDEwZjVlODAxMWE2N2MzZGIwZTk)  to join the course Slack 
+
 ## Reference
 
 The main book for this course is:
