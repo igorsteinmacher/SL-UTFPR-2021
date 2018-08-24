@@ -19,7 +19,7 @@ You can click in the assignment title for details
 | [Contribution to Open Source](assignments/contribution.md) (Checkpoint 4) | Final presentation (group + instructor)<br>*can be done during office hours* | 10%    | Dec. 6               |
 | Contribution to Open Source (Final report)                   | Summary of the contribution process (I recommend to be written on-the-fly to avoid forgetting things) | 20%    | Dec. 13              |
 
-&& Penalty of 10% in the final grade if not submitted<br>\# The sum of all assignments will total 15%. The assignments under this category can have different weights, but will sum 15%.
+&& Penalty of 10% in the final grade if not submitted<br>\# The sum of all assignments will total 20%. The assignments under this category can have different weights, but will sum 20%.
 
 
 
