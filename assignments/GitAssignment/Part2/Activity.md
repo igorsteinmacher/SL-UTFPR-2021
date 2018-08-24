@@ -2,19 +2,9 @@
 
 1. Project.zip contains a git repository. Unzip it.
 
-2. Explore the repository in Project and draw a diagram of the commits and branches in this repository.
+2. Explore the repository in Project and draw a diagram of the commits and branches in this repository (git log is a good start).
 
     ```
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -30,27 +20,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
     ```
 
-5. Merge non-master branch into `master`.
+5. Merge non-master branch into `master` (and report the command used.
 
     ```
-
-
-
-
-
-
-
 
 
 
@@ -60,13 +34,6 @@
 6. Was git able to merge the branches?
 
     ```
-
-
-
-
-
-
-
 
 
 
