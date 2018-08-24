@@ -8,7 +8,7 @@ You can click in the assignment title for details
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | -------------------- |
 | [Git Assignment](assignments/gitAssignment.md) (#)           | List of commands (document submitted)                        | #      | Sept. 18             |
 | [Pull-request/code review assignment](assignments/PRcodeReview.md)(#) | (i) Pull request and<br>(ii) code review done in GitHub      | #      | Sept. 24/<br> Oct. 2 |
-| [Setting up an open source project](assignments/openYourProject.md) | Your project created in GitHub                               | 10%    | Sept. 4              |
+| [Setting up an open source project](assignments/openYourProject.md) | Your project created in GitHub                               | 10%    | Oct. 4              |
 | [Choosing a license for your project](assignments/license.md) | Document justifying the choice of the license                | 5%     | Oct. 4               |
 | [Contribution to Wikipedia](assignments/wikipedia.md)        | link to the contribution (if accepted) or a document explaining why the contribution was not accepted | 10%    | Oct. 18              |
 | [Contribution to Open Source](assignments/contribution.md) (Checkpoint 0) | Stand up presentation<br>Decision about project and plan on steps towards contribution | 5%     | Oct. 9               |
