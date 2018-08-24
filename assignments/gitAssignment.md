@@ -103,6 +103,7 @@
 
    ```
 
+
 14. Write a command (or set of commands) to proceed with the merge and make `master` branch up-to-date
    ```
 
