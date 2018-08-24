@@ -19,7 +19,7 @@ You have to write code for that will be code reviewed by one of your peers. The 
 Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 24th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to begin your code reviews **in class in September 25th** and prepare your first round of reviews by **September 27th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **October 2nd**. If you are not present for the review, do not have your code on the Sept. 24th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
 
 ## Some specifics:
-1. I want you to practice the GitHub workflow as well. So, we will make use of you previously created project in the assignment where you [created an open source project](openYourProject.md) under [NAU-OSS](www.github.com/NAU-OSS) (Even if there is nothing there, just create the project and this folder);
+1. I want you to practice the GitHub workflow as well. So, we will make use of you previously created project in the assignment where you [created an open source project](openYourProject.md) under [NAU-OSS](www.github.com/NAU-OSS) (Even if there is nothing there, just create the project);
 2. Fork the project (if you don't have a fork under your profile yet);
 3. Create a folder called "**assignmentPR**" in the root of the project and work inside this folder;
 4. Submit your files and changes using git commands (commits, pushes), and submit them to the main repo by creating a pull request
