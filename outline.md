@@ -19,12 +19,12 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Oct 9   | Contribution project presentations                    |                                                              |
 | Oct 11  | Continuous Integration (Prof. Toby Hocking)           |                                                              |
 | Oct 16  | OSS governance / social infrastructure                | **Pre-reading desired** ([Producing OSS Chapter 4](https://producingoss.com/en/social-infrastructure.html)) |
-| Oct 18  | Discussion (i) *                                      | **<font color="red">Pre-reading assignment</font>** (TBD)<br>**<font color="red">Mediator(s) needed</font>** |
-| Oct 23  | Managing participants                                 | **Pre-reading** ([Producing OSS Chapter 8](https://producingoss.com/en/managing-participants.html)) |
+| Oct 18  | Invited Talk (TBD)                                    |                                                              |
+| Oct 23  | Discussion (i) *                                      | **<font color="red">Pre-reading assignment</font>** (TBD)<br>**<font color="red">Mediator(s) needed</font>** |
 | Oct 25  | Checkpoint 1!                                         |                                                              |
 | Oct 30  | Guest lecture (Filipe Saraiva): My history            |                                                              |
 | Nov 1   | Discussion (ii) *                                     | **<font color="red">Pre-reading </font>** (TBD)<br/>**<font color="red">Mediator (s) needed</font>** |
-| Nov 6   | Invited Talk (TBD)                                    |                                                              |
+| Nov 6   | Managing participants                                 | **Pre-reading** ([Producing OSS Chapter 8](https://producingoss.com/en/managing-participants.html)) |
 | Nov 8   | Code hour!                                            |                                                              |
 | Nov 13  | Discussion (iii) *                                    | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
 | Nov 15  | Checkpoint 2!                                         |                                                              |
