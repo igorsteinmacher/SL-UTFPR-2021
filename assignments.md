@@ -10,17 +10,16 @@ You can click in the assignment title for details
 | [Pull-request/code review assignment](assignments/PRcodeReview.md)(#) | (i) Pull request and<br>(ii) code review done in GitHub      | #      | Sept. 24/<br> Oct. 2 |
 | [Setting up an open source project](assignments/openYourProject.md) | Your project created in GitHub                               | 10%    | Sept. 4              |
 | [Choosing a license for your project](assignments/license.md) | Document justifying the choice of the license                | 5%     | Oct. 4               |
-| Contribution to Wikipedia                                    | link to the contribution (if accepted) or a document explaining why the contribution was not accepted | 10%    | Oct. 18              |
-| Contribution to Open Source (Checkpoint 0)                   | Stand up presentation<br>Decision about project and plan on steps towards contribution | 5%     | Oct. 9               |
-| Contribution to Open Source (Checkpoint 1)                   | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) | 10%    | Oct. 25              |
-| Contribution to Open Source (Checkpoint 2)                   | **Group+instructor presentation**<br>Progress report         | 5%     | Nov. 15              |
-| Contribution to Open Source (DELIVERABLE)                    | Code needs to be submitted for in-class peer review by this date | *      | Nov. 22              |
-| Peer (in-class) Code Review                                  | Code review performed by other group                         | 5%     | Nov.  27             |
-| Final submission                                             | Code submitted to the main project (Desired date)            |        | Nov. 29              |
-| Contribution to Open Source (Checkpoint 4)                   | Final presentation (group + instructor)<br>*can be done during office hours* | 10%    | Dec. 4               |
+| [Contribution to Wikipedia](assignments/wikipedia.md)        | link to the contribution (if accepted) or a document explaining why the contribution was not accepted | 10%    | Oct. 18              |
+| [Contribution to Open Source](assignments/contribution.md) (Checkpoint 0) | Stand up presentation<br>Decision about project and plan on steps towards contribution | 5%     | Oct. 9               |
+| [Contribution to Open Source](assignments/contribution.md)(Checkpoint 1) | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) | 10%    | Oct. 25              |
+| [Contribution to Open Source](assignments/contribution.md)(Checkpoint 2) | **Group+instructor presentation**<br>Progress report         | 5%     | Nov. 15              |
+| [Contribution to Open Source](assignments/contribution.md) (DELIVERABLE) | Code needs to be submitted for in-class peer review by this date | &&     | Nov. 22              |
+| [Contribution to Open Source](assignments/contribution.md) - Peer (in-class) code Review | Code review performed by other group (This task may be done throughout the period, depending on the flux of submissions) | 5%     | Nov.  29             |
+| [Contribution to Open Source](assignments/contribution.md) (Checkpoint 4) | Final presentation (group + instructor)<br>*can be done during office hours* | 10%    | Dec. 6               |
 | Contribution to Open Source (Final report)                   | Summary of the contribution process (I recommend to be written on-the-fly to avoid forgetting things) | 20%    | Dec. 13              |
 
-\* Penalty of 10% in the final grade if not submitted<br>\# The sum of all assignments will total 15%. Every assignment under this category will have the same weight
+&& Penalty of 10% in the final grade if not submitted<br>\# The sum of all assignments will total 15%. The assignments under this category can have different weights, but will sum 15%.
 
 
 
