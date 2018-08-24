@@ -2,9 +2,9 @@
 
 **GROUP ASSIGNMENT**
 
-**Deadline**: September 18
+**Deadline**: September 24 (Code implementation)/September 27 (Code Review)/Implement changes (October 2)
 
-**How to submit**: TBD
+**How to submit**: Pull Request in GitHub
 
 **Value**: Part of in-class/short assignments grade
 
@@ -17,7 +17,7 @@ You have to write code for that will be code reviewed by one of your peers. The 
 
 ### Details and dates
 
-Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 24th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to begin your code reviews **in class in September 25th** and prepare your first round of reviews by September 27th. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **October 2nd**. If you are not present for the review, do not have your code on the Sept. 24th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
+Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 24th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to begin your code reviews **in class in September 25th** and prepare your first round of reviews by **September 27th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **October 2nd**. If you are not present for the review, do not have your code on the Sept. 24th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
 
 ## Features
 
