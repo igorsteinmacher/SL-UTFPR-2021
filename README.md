@@ -1,5 +1,7 @@
 # CS499-2018 - Open Source Software Development 
 
+**[Syllabus HERE](documents/Syllabus.pdf)**
+
 **Instructor**: Dr. Igor Steinmacher
 
 **Email**: Igor.Steinmacher@nau.edu
