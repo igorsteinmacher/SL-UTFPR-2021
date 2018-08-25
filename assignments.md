@@ -27,6 +27,6 @@ You can click in the assignment title for details
 
 **You can make up to 8 points extra to complement any of the assignments, or to sub a grade.**
 
-* Mediating discussions (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/mediatingSchedule.md))
-* 5-minute presentation (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/shortTalkSchedule.md)) ([TOPICS HERE](shorttalks.md))
-* Writing essays (4 points each) - Maximum of 2 essays ([PAPERS HERE](papers.md))
+* [Mediating discussions](assignments/mediatingSchedule.md) (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/mediatingSchedule.md))
+* [5-minute presentation](assignments/shortTalks.md) (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/shortTalkSchedule.md)) ([TOPICS HERE](shorttalks.md))
+* [Writing essays](assignments/essays.md) (4 points each) - Maximum of 2 essays ([PAPERS HERE](papers.md))
