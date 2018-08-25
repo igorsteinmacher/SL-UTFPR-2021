@@ -1,3 +1,42 @@
 # List of papers for essays and discussions
 
-To appear :-)
+**ADD MORE IF YOU WANT :-) -- SUGGESTIONS ARE MORE THAN WELCOME**
+
+Here is a initial/live list
+
+* Yunwen Ye and Kouichi Kishida. 2003. Toward an understanding of the motivation Open Source Software developers. In Proceedings of the 25th International Conference on Software Engineering (ICSE '03). IEEE Computer Society, Washington, DC, USA, 419-429. Available at https://dl.acm.org/citation.cfm?id=776867
+
+*  Christian Bird, Alex Gourley, Prem Devanbu, Michael Gertz, and Anand Swaminathan. 2006. Mining email social networks. In Proceedings of the 2006 international workshop on Mining software repositories (MSR '06). ACM, New York, NY, USA, 137-143. DOI=http://dx.doi.org/10.1145/1137983.1138016 
+
+*  Igor Steinmacher, Tayana Conte, Marco Aurélio Gerosa, and David Redmiles. 2015. Social Barriers Faced by Newcomers Placing Their First Contribution in Open Source Software Projects. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW '15). ACM, New York, NY, USA, 1379-1392. DOI: https://doi.org/10.1145/2675133.2675215 
+
+*  Igor Steinmacher, Tayana Uchoa Conte, Christoph Treude, and Marco Aurélio Gerosa. 2016. Overcoming open source project entry barriers with a portal for newcomers. In Proceedings of the 38th International Conference on Software Engineering (ICSE '16). ACM, New York, NY, USA, 273-284. DOI: https://doi.org/10.1145/2884781.2884806 
+
+* Brian Fitzgerald "The transformation of open source software." Mis Quarterly (2006): 587-598. Available at https://www.jstor.org/stable/25148740 
+
+*  Christopher Vendome, Daniel M. German, Massimiliano Di Penta, Gabriele Bavota, Mario Linares-Vásquez, and Denys Poshyvanyk. 2018. To distribute or not to distribute?: why licensing bugs matter. In Proceedings of the 40th International Conference on Software Engineering (ICSE '18). ACM, New York, NY, USA, 268-279. DOI: https://doi.org/10.1145/3180155.3180221 
+
+*  Lucrecia Llerena, Nancy Rodriguez, Pablo Gomez-Abajo, John W. Castro, and Silvia T. Acuña. 2018. "Adoption of the visual brainstorming technique in the open source software development process". In Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings (ICSE '18). ACM, New York, NY, USA, 232-233. DOI: https://doi.org/10.1145/3183440.3194946 
+
+* Almeida, Daniel A., et al. "Investigating whether and how software developers understand open source software licensing." Empirical Software Engineering (2018): 1-29. Available at: https://link.springer.com/content/pdf/10.1007/s10664-018-9614-9.pdf
+
+* Terrell, J., Kofink, A., Middleton, J., Rainear, C., Murphy-Hill, E., Parnin, C., & Stallings, J. (2017). Gender differences and bias in open source: Pull request acceptance of women versus men. PeerJ Computer Science, 3, e111. Available at https://peerj.com/articles/cs-111/
+
+*  Reid Holmes, Meghan Allen, and Michelle Craig. 2018. Dimensions of experientialism for software engineering education. In Proceedings of the 40th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '18). ACM, New York, NY, USA, 31-39. DOI: https://doi.org/10.1145/3183377.3183380 
+
+* Kilamo, Terhi, Imed Hammouda, Tommi Mikkonen, and Timo Aaltonen. "From proprietary to open source—Growing an open source ecosystem." Journal of Systems and Software 85, no. 7 (2012): 1467-1478. https://www.sciencedirect.com/science/article/pii/S0164121211001683
+
+* Rigby, Peter, Brendan Cleary, Frederic Painchaud, Margaret-Anne Storey, and Daniel German. "Contemporary peer review in action: Lessons from open source development." IEEE software 29, no. 6 (2012): 56-61. https://ieeexplore.ieee.org/abstract/document/6148202/
+
+*  Moritz Beller, Alberto Bacchelli, Andy Zaidman, and Elmar Juergens. 2014. Modern code reviews in open-source projects: which problems do they fix?. In Proceedings of the 11th Working Conference on Mining Software Repositories (MSR 2014). ACM, New York, NY, USA, 202-211. DOI: http://dx.doi.org/10.1145/2597073.2597082 
+
+*  Anja Guzzi, Alberto Bacchelli, Michele Lanza, Martin Pinzger, and Arie van Deursen. 2013. Communication in open source software development mailing lists. In Proceedings of the 10th Working Conference on Mining Software Repositories (MSR '13). IEEE Press, Piscataway, NJ, USA, 277-286. https://dl.acm.org/citation.cfm?id=2487139
+
+*  Igor Steinmacher, Gustavo Pinto, Igor Scaliante Wiese, and Marco A. Gerosa. 2018. Almost there: a study on quasi-contributors in open source software projects. In Proceedings of the 40th International Conference on Software Engineering (ICSE '18). ACM, New York, NY, USA, 256-266. DOI: https://doi.org/10.1145/3180155.3180208 
+
+* G. Pinto, I. Steinmacher and M. A. Gerosa, "More Common Than You Think: An In-depth Study of Casual Contributors," 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER), Suita, 2016, pp. 112-123. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7476635&isnumber=7476613
+
+* Gharehyazie, Mohammad, Daryl Posnett, Bogdan Vasilescu, and Vladimir Filkov. "Developer initiation and social interactions in OSS: A case study of the Apache Software Foundation." Empirical Software Engineering 20, no. 5 (2015): 1318-1353. https://link.springer.com/article/10.1007/s10664-014-9332-x
+
+
+
