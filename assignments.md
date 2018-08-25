@@ -29,4 +29,4 @@ You can click in the assignment title for details
 
 * Mediating discussions (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/mediatingSchedule.md))
 * 5-minute presentation (4 points) - Maximum of 1 participation ([REGISTER HERE](assignments/shortTalkSchedule.md)) ([TOPICS HERE](shorttalks.md))
-* Writing essays (4 points each) - Maximum of 2 essays [PAPERS HERE](papers.md))
+* Writing essays (4 points each) - Maximum of 2 essays ([PAPERS HERE](papers.md))
