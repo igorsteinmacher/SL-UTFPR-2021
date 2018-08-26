@@ -4,7 +4,7 @@ Check here in which class we need mediators and guarantee your extra points!!!
 
 | Date    | Content                                               | Pre-reading / volunteer requirement                          |
 | ------- | ----------------------------------------------------- | ------------------------------------------------------------ |
-| Aug 28  | Introductions ([Slides](notes/Lecture_01.pptx))                   |                                                              |
+| Aug 28  | Introductions ([Slides](notes/Lecture_01.pdf))                   |                                                              |
 | Aug 30  | Open Source: what it is and what it is not<br>History of Open Source             |                                                              |
 | Sept 4  | Discussion: The Cathedral and The Bazaar              | **<font color="red">Pre-reading assignment</font>** ([The cathedral and the bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/))<br>**<font color="red">Mediator (s) needed</font>** |
 | Sept 6 | Git and GitHub                                        |                                                              |
