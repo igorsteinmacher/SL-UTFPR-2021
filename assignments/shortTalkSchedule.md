@@ -7,7 +7,7 @@ Change and send a pull request
 | ------- | --------- | ----- | --------- | ----- |
 | Aug 30  | Stephen White| [Crowdsourcing software development](https://docs.google.com/presentation/d/1Zf--fTErTjEQR5HdFkJiIh2OI9XFMgT3jQSwflmfxKY/edit?usp=sharing) |           |       |
 | Sept 4  |           |       |           |       |
-| Sept 6  |Carli Martinez|Music and Open Source|           |       |
+| Sept 6  |Carli Martinez|Open Music|           |       |
 | Sept 11 |           |       |           |       |
 | Sept 13 |           |       |           |       |
 | Sept 18 |           |       |           |       |
