@@ -8,7 +8,13 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Tanner Massahos
 * Colton Nunley
 
-### Group 2
+### Group 2 - The A Team
+* Stephen White
+* Kalen Woods
+* Jake Schmit
+* Gary Baker 
+
+### Group 3
 * Student 1
 * Student 2
 * Student 3
