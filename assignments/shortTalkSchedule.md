@@ -7,7 +7,7 @@ Change and send a pull request
 | ------- | --------- | ----- | --------- | ----- |
 | Aug 30  |           |       |           |       |
 | Sept 4  |           |       |           |       |
-| Sept 6  |           |       |           |       |
+| Sept 6  |Carli Martinez|Music and Open Source|           |       |
 | Sept 11 |           |       |           |       |
 | Sept 13 |           |       |           |       |
 | Sept 18 |           |       |           |       |
