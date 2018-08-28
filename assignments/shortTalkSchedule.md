@@ -5,7 +5,7 @@ Change and send a pull request
 
 | Date    | Student 1 | Topic | Student 2 | Topic |
 | ------- | --------- | ----- | --------- | ----- |
-| Aug 30  |           |       |           |       |
+| Aug 30  | Stephen White| [Crowdsourcing software development](link) |           |       |
 | Sept 4  |           |       |           |       |
 | Sept 6  |Carli Martinez|Music and Open Source|           |       |
 | Sept 11 |           |       |           |       |
