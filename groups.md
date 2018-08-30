@@ -11,7 +11,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 2 - The A Team
 * Stephen White
 * Kalen Woods
-* Jake Schmit
+* Jake Schmitz
 * Gary Baker 
 
 ### Group 3
