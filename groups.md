@@ -13,7 +13,7 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 ### Group 2 - The A Team
 * Stephen White
 * Kalen Woods
-* Jake Schmit
+* Jake Schmitz
 * Gary Baker 
 
 ### Group 3
