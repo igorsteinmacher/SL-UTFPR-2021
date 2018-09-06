@@ -5,9 +5,9 @@ Change and send a pull request
 
 | Date    | Student 1 | Topic | Student 2 | Topic |
 | ------- | --------- | ----- | --------- | ----- |
-| Aug 30  |           |       |           |       |
-| Sept 4  |           |       |           |       |
-| Sept 6  |           |       |           |       |
+| Aug 30  | Stephen White| [Crowdsourcing software development](https://docs.google.com/presentation/d/1Zf--fTErTjEQR5HdFkJiIh2OI9XFMgT3jQSwflmfxKY/edit?usp=sharing) |           |       |
+| Sept 4  |Morgan Lovato|Innersourcing       |           |       |
+| Sept 6  |Carli Martinez|[Open Music](https://docs.google.com/presentation/d/11IsWNr2kr2EIvSCKR9Sgh3EMR1HZPRfhMEOCeBpncNA/edit?usp=sharing)|           |       |
 | Sept 11 |           |       |           |       |
 | Sept 13 |           |       |           |       |
 | Sept 18 |           |       |           |       |
