@@ -15,7 +15,7 @@ Change and send a pull request
 | Date    | Topic.    | Student 1 | Student 2 | Student 3 | Student 4 |
 | ------- | --------- | --------- | --------- | --------- | --------- |
 | Sept 4  | The Cathedral and The Bazaar          | Kalen Wood-Wardlow          | Stephen White          |           |           |
-| Oct 23  |           |           |           |           |           |
+| Oct 23  |           |     Jasque Saydyk      |           |           |           |
 | Nov 6   | Managing participants         |           |           |           |           |
 | Nov 1   |           |           |           |           |           |
 | Nov 13  |           |           |           |           |           |
