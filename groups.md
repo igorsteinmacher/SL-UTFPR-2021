@@ -10,11 +10,13 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 
 ### Group 2 - The A Team
 * Stephen White
-* Kalen Woods
+* Kalen Wood-Wardlow
 * Jake Schmitz
 * Gary Baker 
+
 
 ### Group 3
 * Student 1
 * Student 2
 * Student 3
+
