@@ -1,8 +1,8 @@
-#Groups
+# Groups
 
 These are the Groups for this class. Please group yourselves in teams of 3 or 4 students and add your names here:
 
-### Group 1 - _The [B]est Group_
+### Group 1 - _The :b:est Group_
 + _Executive Team Leader_: Tanner Massahos - [tanman987](https://github.com/tanman987)
 + _Vice Executive & Project Coordinator_: Joseph Remy - [J1411](https://github.com/J1411)
 + _Chief of Team Health and Satisfaction_: Julian Bell - [jbell-97](https://github.com/jbell-97)
