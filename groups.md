@@ -15,8 +15,9 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Gary Baker 
 
 
-### Group 3
-* Student 1
-* Student 2
-* Student 3
+### Group 3 - The [Insert-Team-Name] Team
+* Jasque Saydyk
+* Evan Russell
+* Ryan Ladwig
+* Yuxuan Zhu
 
