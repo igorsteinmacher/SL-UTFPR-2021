@@ -19,6 +19,10 @@ Please, list your group in the [group page](groups.md). Do it by [changing it](g
 The main book for this course is:
 * FOGEL, Karl. **Producing Open Source Software**. O'Reilly. Available online:  http://producingoss.com (Creative Commons)
 
+## Interesting movies
+* [Revolution OS](http://www.revolution-os.com/) "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement."
+* [The Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
+
 ## Navigate the course
 [Class outline](outline.md)<br>
 [Assignment list](assignments.md)<br>
