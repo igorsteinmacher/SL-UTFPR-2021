@@ -17,10 +17,10 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 * Gary Baker 
 
 ### Group 3 - The [Insert-Team-Name] Team
-* Jasque Saydyk
-* Evan Russell
-* Ryan Ladwig
-* Yuxuan Zhu
+* Jasque Saydyk - [clockian-NAU](https://github.com/clockian-NAU)
+* Evan Russell - [evdru](https://github.com/evdru)
+* Ryan Ladwig - [KennySprings4Life](https://github.com/KennySprings4Life)
+* Yuxuan Zhu - [xingkongzyx](https://github.com/xingkongzyx)
 
 ### Group 4
 * Student 1
