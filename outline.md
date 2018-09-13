@@ -8,8 +8,8 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Aug 30  | Open Source: what it is and what it is not<br>History of Open Source  ([Slides](notes/Lecture_02.pdf))            |                                                              |
 | Sept 4  | Discussion: The Cathedral and The Bazaar              | **<font color="red">Pre-reading assignment</font>** ([The cathedral and the bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/))<br>**<font color="red">Mediator (s) needed</font>** |
 | Sept 6 | Git and GitHub ([Slides](notes/Lecture_03.pdf))                                        |                                                              |
-| Sept 11 | Git and GitHub                           |                                                              |
-| Sept 13 | Git and GitHub / Code Review                          |                                                              |
+| Sept 11 | Git and GitHub (continuing...)                       |                                                              |
+| Sept 13 | Git and GitHub / Code Review ([Slides](notes/Lecture_04.pdf))                          |                                                              |
 | Sept 18 | How to “create” an Open Source project                | **Pre-reading** ([Producing OSS Chapter 2](https://producingoss.com/en/getting-started.html)) |
 | Sept 20 | Licenses and Copyrights                               |                                                              |
 | Sept 25 | Time for code review (hands-on)                       |                                                              |
