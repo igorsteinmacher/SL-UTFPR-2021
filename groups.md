@@ -23,6 +23,11 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group01-SiteScribe>
 * Yuxuan Zhu - [xingkongzyx](https://github.com/xingkongzyx)
 
 ### Group 4
+* Morgan Lovato - [morganlovato] (https://github.com/morganlovato)
+* Gwen Morris - [Oakheart27] (https://github.com/Oakheart27)
+* Jasmine Mitchell - [jdm568](https://github.com/jdm568)
+
+### Group 5
 * Student 1
 * Student 2
 * Student 3
