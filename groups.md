@@ -31,5 +31,5 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group03>
 
 ### Group 5
 * Carli Martinez [cmartinez](https://github.com/csmartinez)
-* Miguel Quinones
+* Miguel Quinones [MQuinones98](https://github.com/MQuinones98)
 * Melody
