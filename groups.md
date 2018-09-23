@@ -30,6 +30,6 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group03>
 * Jasmine Mitchell - [jdm568](https://github.com/jdm568)
 
 ### Group 5
-* Student 1
-* Student 2
-* Student 3
+* Carli Martinez [cmartinez](https://github.com/csmartinez)
+* Miguel Quinones
+* Melody
