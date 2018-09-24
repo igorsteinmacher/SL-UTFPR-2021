@@ -38,6 +38,6 @@ Group repository: <https://github.com/NAU-OSS/Group-5>
 
 ### Group 6
 * Van Steinbrenner - [Suttungr](https://github.com/Suttungr)
-* Claudia Coronel 
+* Claudia Coronel  -[clawss](https://github.com/clawss)
 * Madi Boman
 * Hyungi Choi
