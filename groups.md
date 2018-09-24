@@ -35,3 +35,9 @@ Group repository: <https://github.com/NAU-OSS/CS499-Group03>
 * Melody Pressley [melod-y](https://github.com/melod-y)
 
 Group repository: <https://github.com/NAU-OSS/Group-5>
+
+### Group 6
+* Van Steinbrenner - [Suttungr](https://github.com/Suttungr)
+* Claudia Coronel 
+* Madi Boman
+* Hyungi Choi
