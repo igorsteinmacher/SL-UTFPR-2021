@@ -42,6 +42,8 @@ Group repository: <https://github.com/NAU-OSS/Group-5>
 * Madi Boman
 * Hyungi Choi
 
+Group Repository: https://github.com/NAU-OSS/CS499_Group6/
+
 ### Group 7
 * Brandon Kindrick - (https://github.com/irishes)
 * Chris Combs - (https://github.com/chrisryancombs)
