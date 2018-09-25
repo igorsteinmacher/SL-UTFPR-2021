@@ -41,3 +41,9 @@ Group repository: <https://github.com/NAU-OSS/Group-5>
 * Claudia Coronel  -[clawss](https://github.com/clawss)
 * Madi Boman
 * Hyungi Choi
+
+### Group 7
+* Brandon Kindrick - (https://github.com/irishes)
+* Chris Combs - (https://github.com/chrisryancombs)
+* Michael Hartzell - (https://github.com/mikeHartzell)
+* Nathan Payton-Mccauslin - (https://github.com/nip5)
