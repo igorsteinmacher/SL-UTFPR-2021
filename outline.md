@@ -11,9 +11,9 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Sept 11 | Git and GitHub (continuing...)                       |                                                              |
 | Sept 13 | Git and GitHub / Code Review ([Slides](notes/Lecture_04.pdf))                          |                                                              |
 | Sept 18 | How to “create” an Open Source project ([Slides](notes/Lecture_05.pdf)                | **Pre-reading** ([Producing OSS Chapter 2](https://producingoss.com/en/getting-started.html)) |
-| Sept 20 | Licenses and Copyrights                               |                                                              |
+| Sept 20 | Licenses and Copyrights ([Slides](notes/Lecture_06.pdf))                               |                                                              |
 | Sept 25 | Time for code review (hands-on)                       |                                                              |
-| Sept 27 | OSS Technical Infrastructure                          | **Pre-reading** ([Producing OSS Chapter 3](https://producingoss.com/en/technical-infrastructure.html)) |
+| Sept 27 | Contributing to Open Source projects ([Slides](notes/Lecture_07.pdf))                  | **Pre-reading** [Paper 1](http://www.igor.pro.br/publica/papers/IEEESoft_2018.pdf) - [Paper2](http://www.igor.pro.br/publica/papers/2014SBES.pdf) |
 | Oct 2   | Contributing to Open Source projects                  | **Pre-reading** [Paper 1](http://www.igor.pro.br/publica/papers/IEEESoft_2018.pdf) - [Paper2](http://www.igor.pro.br/publica/papers/2014SBES.pdf) |
 | Oct 4   | Information about the contribution assignment         |                                                              |
 | Oct 9   | Contribution project presentations                    |                                                              |
