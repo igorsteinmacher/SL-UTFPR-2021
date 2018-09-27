@@ -14,6 +14,7 @@ The first step towards that end is choosing a project. There are a couple of the
 * [KDE Cantor](https://edu.kde.org/cantor/) - Music Education project. Mainly developed in C++ and Qt/QML
 * [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community.
 * [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU)
+* [qiime2](https://github.com/qiime2/qiime2) - extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. Developed in Python
 
 
 At the end of the term, it is expected that you have one or more contributions submitted, peer-evaluated (in classroom), reviewed by project members, and accepted. Here are overall steps and dates (more details to come).
