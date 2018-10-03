@@ -12,10 +12,11 @@ The first step towards that end is choosing a project. There are a couple of the
 
 * [Jabref ](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java
 * [KDE Cantor](https://edu.kde.org/cantor/) - Music Education project. Mainly developed in C++ and Qt/QML
-* [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community.
-* [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU)
+* [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community. --> [Tasks and details available here](assignments/FluxPuppy.md)
+* [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU) 
 * [qiime2](https://github.com/qiime2/qiime2) - extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. Developed in Python
-
+* [DeepState](https://github.com/trailofbits/deepstate) - has multiple help wanted issues, some of which might be quite suitable for an advanced undergrad.  It's a test generation tool for C and C++, GoogleTest that allows automatic test generation, basically.  Bringing security vulnerability detection tools into the unit testing/early dev cycle is the big idea.. Prof. Alex Groce is one of the main devs, so he can provide more info/help if students are interested.
+* [R packages](https://github.com/tdhock/oss-class-ideas) - Professor Toby Hocking has a lot of interesting ideas and projects that need some support. Please check his ideas page and see if you are interested in some of them.
 
 At the end of the term, it is expected that you have one or more contributions submitted, peer-evaluated (in classroom), reviewed by project members, and accepted. Here are overall steps and dates (more details to come).
 
