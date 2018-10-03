@@ -1,4 +1,4 @@
-#About FluxPuppy and potential work to do
+# About FluxPuppy and potential work to do
 
 
 **FluxPuppy** is a mobile Android application for use with the LI-840A gas
