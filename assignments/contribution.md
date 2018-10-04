@@ -2,7 +2,7 @@
 
 **GROUP ASSIGNMENT**
 
-**Deadline**: MULTIPLES
+**Deadline**: MULTIPLE
 
 **Value**: Multi-part (Total: 55%)
 
