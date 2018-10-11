@@ -24,14 +24,14 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Oct 25  | Checkpoint 1!                                         |                                                              |
 | Oct 30  | Guest lecture (Filipe Saraiva): My history            |                                                              |
 | Nov 1   | Discussion (ii) *                                     | **<font color="red">Pre-reading </font>** (TBD)<br/>**<font color="red">Mediator (s) needed</font>** |
-| Nov 6   | TBD                                                   |    |
+| Nov 6   | Google Summer of Code (Prof. Toby Hocking)                                                   |    |
 | Nov 8   | Code hour!                                            |  Come and code!!!                                                            |
 | Nov 13  | Discussion (iii) *                                    | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
 | Nov 15  | Checkpoint 2!                                         |                                                              |
 | Nov 20  | NAU Holiday                                           |                                                              |
 | Nov 22  | Discussion (iv) *                                     | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
 | Nov 27  | Code hour!                                            |                                                              |
-| Nov 29  | Google Summer of Code (Prof. Toby Hocking)            |                                                              |
+| Nov 29  | TBD             |                                                              |
 | Dec 4   | Last minute work on projects                          |                                                              |
 | Dec 6   | Checkpoint 3! Final date for submission               |                                                              |
 | Dec 13  | Final date to submit the contribution process summary | Deliverable – Summary of the contribution process (I recommend to be written on-the-fly to avoid forgetting things) |
