@@ -11,6 +11,7 @@ You can click in the assignment title for details
 | [Setting up an open source project](assignments/openYourProject.md) | Your project created in GitHub                               | 10%    | Oct. 4              |
 | [Choosing a license for your project](assignments/license.md) | Document justifying the choice of the license                | 5%     | Oct. 4               |
 | [Contribution to Wikipedia](assignments/wikipedia.md)        | link to the contribution (if accepted) or a document explaining why the contribution was not accepted | 10%    | Oct. 18              |
+| [About your project](assignments/aboutProject.md) (#)      | IN CLASSROOM ASSIGNMENT **Oct-18** | #    | Oct. 18              |
 | [Contribution to Open Source](assignments/contribution.md) (Checkpoint 0) | Stand up presentation<br>Decision about project and plan on steps towards contribution | 5%     | Oct. 9               |
 | [Contribution to Open Source](assignments/contribution.md)(Checkpoint 1) | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) | 10%    | Oct. 25              |
 | [Contribution to Open Source](assignments/contribution.md)(Checkpoint 2) | **Group+instructor presentation**<br>Progress report         | 5%     | Nov. 15              |
