@@ -1,10 +1,17 @@
 # Assignment - Class of Oct-18
 
-Copy this markdown and fill the gaps according to the details of the project your group is contributing to.
+Copy this markdown to your repo under NAU-OSS and fill the gaps according to the details of the project your group is contributing to.
+
 This will help you on your way!
+
 If you don't know, try to search for it. If you don't find, fill with N/A
 
 # Details about <Name_of_project>
+
+## Governance Model
+
+  * Discuss the governance model of the project you are working on
+
 
 ## Resources available (URLs)
 
