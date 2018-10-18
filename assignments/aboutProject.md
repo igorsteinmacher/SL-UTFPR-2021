@@ -41,9 +41,10 @@ If you don't know, try to search for it. If you don't find, fill with N/A
 
 ## Code documentation
   
-    * Is any kind of code documentation available? Where?
-    * Is the architecture documented?
-    * Are there code standards policies/guidelines available? Where?
+   * Is any kind of code documentation available? Where?
+    
+   * Is the architecture documented?
+   * Are there code standards policies/guidelines available? Where?
     
 ## Submitting your contribution
 
