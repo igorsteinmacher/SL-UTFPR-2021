@@ -18,7 +18,7 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Oct 4   | Information about the contribution assignment    |                                                              |
 | Oct 9   | Contribution project presentations               |                                                              |
 | Oct 11  | Continuous Integration (Prof. Toby Hocking)      |                                                              |
-| Oct 16  | OSS governance / social infrastructure           | **Pre-reading desired** ([Producing OSS Chapter 4](https://producingoss.com/en/social-infrastructure.html))|
+| Oct 16  | OSS governance / social infrastructure ([Slides](notes/Lecture_08.pptx))               | **Pre-reading desired** ([Producing OSS Chapter 4](https://producingoss.com/en/social-infrastructure.html))|
 | Oct 18  | Invited Talk (TBD)                               |                                                              |
 | Oct 23  | Discussion (i) *                                 | **<font color="red">Pre-reading assignment</font>**(TBD)<br>**<font color="red">Mediator(s) needed</font>** |
 | Oct 25  | Checkpoint 1!                                    |                                                              |
