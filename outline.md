@@ -28,8 +28,8 @@ Check here in which class we need mediators and guarantee your extra points!!!
 | Nov 8   | Code hour!                                       |  Come and code!!!                                            |
 | Nov 13  | Discussion (iii) *                               | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
 | Nov 15  | Checkpoint 2!                                    |                                                              |
-| Nov 20  | NAU Holiday                                      |                                                              |
-| Nov 22  | Discussion (iv) *                                | **<font color="red">Pre-reading</font>** (TBD)<br/>**<font color="red">Mediator(s) needed</font>** |
+| Nov 20  | Code Time!                                       |                                                              |
+| Nov 22  | NAU HOLIDAY                                      |                                                              |
 | Nov 27  | Code hour!                                       |                                                              |
 | Nov 29  | Last minute work on projects                     |                                                              |
 | Dec 4   | Invited Lecture: Gustavo Pinto                   |                                                              |
