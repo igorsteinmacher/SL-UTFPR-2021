@@ -42,4 +42,4 @@ At the end of the term, it is expected that you have one or more contributions s
 
 ### Final Report
 
-Each group will write up a document describing the contribution process of an existing large open source project, based on investigating the publicly available information about this project. This is the final deliverable of the project and can contain problems faced during the process, how did you apply your knowledge,a nd what kind of new skills the group acquired during this journey. It needs to present and overview of the project and the task, followed by the details of your contribution process.
+Each group will write up a document describing the contribution process of an existing large open source project, based on investigating the publicly available information about this project. This is the final deliverable of the project and can contain problems faced during the process, how did you apply your knowledge,and what kind of new skills the group acquired during this journey. It needs to present and overview of the project and the task, followed by the details of your contribution process.
