@@ -1,4 +1,5 @@
 # CS499-2018 - Open Source Software Development 
+This edition is over... Look for [CS499-2019](http://github.com/igorsteinmacher/CS499-2019)for the next edition
 
 **[Syllabus HERE](documents/Syllabus.pdf)**
 
