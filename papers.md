@@ -37,6 +37,17 @@ Here is a initial/live list
 * G. Pinto, I. Steinmacher and M. A. Gerosa, "More Common Than You Think: An In-depth Study of Casual Contributors," 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER), Suita, 2016, pp. 112-123. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7476635&isnumber=7476613
 
 * Gharehyazie, Mohammad, Daryl Posnett, Bogdan Vasilescu, and Vladimir Filkov. "Developer initiation and social interactions in OSS: A case study of the Apache Software Foundation." Empirical Software Engineering 20, no. 5 (2015): 1318-1353. https://link.springer.com/article/10.1007/s10664-014-9332-x
+  
+* Elazhary, Omar, Margaret-Anne Storey, Neil Ernst, and Andy Zaidman. "Do as I Do, Not as I Say: Do Contribution Guidelines Match the GitHub Contribution Process?." In 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 286-290. IEEE, 2019. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8919187&casa_token=vSoznJvBcHMAAAAA:jFfR2nqk8_VRjqy70NU26yqymc-BCYheav3GpIbWoSyJr3eCN-UtsmIeX5c5XZ_Et4jbRGYW94g
+
+* Tourani, Parastou, Bram Adams, and Alexander Serebrenik. "Code of conduct in open source projects." 2017 IEEE 24th international conference on software analysis, evolution and reengineering (SANER). IEEE, 2017. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7884606&casa_token=VWVzyfz5FToAAAAA:cw8TbvdNLgoUnRlJNo8bv9auZzM0EW4j8ffGo6qgKRhyUvNx76Jm02RlfNmrr5FOcAebj8FPScY&tag=1
+
+* Coelho, Jailton, and Marco Tulio Valente. "Why modern open source projects fail." Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering. 2017. https://dl.acm.org/doi/pdf/10.1145/3106237.3106246?casa_token=rfi2C21M9XAAAAAA:qF4DL06LU8HknBQNRTe1trgQLkL-D4e0Ox57tdmA3rCrGh-JlCZwvguhlB582aS-SISTOC8tdFH2yA
+
+* Alami, Adam, Marisa Leavitt Cohn, and Andrzej Wąsowski. "Why does code review work for open source software communities?." 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE). IEEE, 2019.https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812037&casa_token=2VdW3vycv2EAAAAA:AxbcJjso8VqhXhpmJzKFFJOvLycmtK7a_XCyerzSdBC_X7aPkERrXbE3O0XcFbZajiZxRuqbUB0
+
+
+
 
 
 
