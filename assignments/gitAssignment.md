@@ -9,8 +9,7 @@
 ### Understanding the repo
 1. Download [handson.zip](handson.zip) and unzip it. handson is a git repository. Using the commandline change the directory to "handson/"
 
-2. Draw a diagram of the commits and branches in repository.
-
+2. Draw (or screenshot) the diagram of the commits and branches in repository.
     - Use `git branch` to list the branches in this repository.
     - Use `git checkout` to explore each branch.
     - Use `git log --decorate` to explore the structure of commits.
@@ -21,7 +20,7 @@
 
     ```
 
-3. Try `git log --graph --all` to see the commit tree
+3. Now, try `git log --graph --all` to see the commit tree
 
 4. Use `git diff BRANCH_NAME` to view the differences from a branch and the current branch.
    Summarize the difference from master to the other branch.
