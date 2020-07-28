@@ -2,10 +2,6 @@
 
 **INDIVIDUAL ASSIGNMENT**
 
-**Deadline**: September 18
-
-**How to submit**: TBD
-
 **Value**: Part of in-class/short assignments grade
 
 ## Description
@@ -75,28 +71,21 @@
    } 
    ```
 
-10. Write a command sequence to merge the `feature-bar` branch into `master`
+10. Write a command sequence to merge the `feature-bar` branch into `master`. What happened?
    ```
 
 
 
    ```
    
-11. What happened?
+11. Write a set of commands to abort the merge
    ```
 
 
 
    ```
    
-12. Write a set of commands to abort the merge
-   ```
-
-
-
-   ```
-   
-13. Now repeat item 10, but proceed with the manual merge (Editing B.java). All implemented methods are needed. Explain your procedure
+12. Now repeat item 10, but proceed with the manual merge (Editing B.java). All implemented methods are needed. Explain your procedure
    ```
 
 
@@ -104,7 +93,7 @@
    ```
 
 
-14. Write a command (or set of commands) to proceed with the merge and make `master` branch up-to-date
+13. Write a command (or set of commands) to proceed with the merge and make `master` branch up-to-date
    ```
 
 
