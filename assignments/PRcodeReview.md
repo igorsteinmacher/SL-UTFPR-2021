@@ -1,14 +1,9 @@
 #Pull request and Code review assignment
 
 **GROUP ASSIGNMENT**
-
-**Deadline**: September 24 (Code implementation)/September 27 (Code Review)/Implement changes (October 2)
-
-**How to submit**: Pull Request in GitHub
-
+**Deadline**: September 4 (Code implementation)/September 9 (Code Review)/Implement changes (September 14)
+**How to submit**: Pull Request in GitHub *and send a screenshot on BBLearn after each step above (there will be 3 assignments)*
 **Value**: Part of in-class/short assignments grade
-
-
 
 You have to write code for that will be code reviewed by one of your peers. The assignment has two steps:
 
@@ -16,7 +11,7 @@ You have to write code for that will be code reviewed by one of your peers. The 
 2. Reviewing your colleague's code: The focus here is **CODE REVIEW**, meaning help improving the code quality in different aspects, verifying the function, readability, maintainability, *etc*. Code review should heavily focus on clarity, communication, and collaboration. This assignment **does not aim to evaluate the code you produce**. The focus is on practicing code review, and it will be graded more like an essay - tone and content matter more than spotting the logic bugs. Remember, that we are focusing on Open Source Software, so you need to be welcoming, use the appropriate tone (not being rude or harsh), and point out problems and potential solutions.
 
 ### Details and dates
-Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 24th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to begin your code reviews **in class in September 25th** and prepare your first round of reviews by **September 27th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **October 2nd**. If you are not present for the review, do not have your code on the Sept. 24th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
+Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 4th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to prepare your first round of reviews by **September 9th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **September 14th**. If you do not have your code on the Sept. 24th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
 
 ## Some specifics:
 1. I want you to practice the GitHub workflow as well. So, we will make use of you previously created project in the assignment where you [created an open source project](openYourProject.md) under [NAU-OSS](www.github.com/NAU-OSS) (Even if there is nothing there, just create the project);
