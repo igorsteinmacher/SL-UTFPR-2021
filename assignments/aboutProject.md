@@ -8,11 +8,6 @@ If you don't know, try to search for it. If you don't find, fill with N/A
 
 # Details about <Name_of_project>
 
-## Governance Model
-
-  * Discuss the governance model of the project you are working on
-
-
 ## Resources available (URLs)
 
   * Main language used:
