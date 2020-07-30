@@ -1,4 +1,4 @@
-# Assignment - Class of Oct-18
+# How is the project structured?!?
 
 Copy this markdown to your repo under NAU-OSS and fill the gaps according to the details of the project your group is contributing to.
 
