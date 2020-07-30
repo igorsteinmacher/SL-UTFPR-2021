@@ -18,7 +18,7 @@ At the end of the term, it is expected that you have one or more contributions s
 | Step                                                        | Expected deliverable                                         | Deadline  |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------- |
 | Checkpoint 0                                                | **Stand up presentation (5-7 minutes)**<br>Decision about project and plan on steps towards contribution |   |
-| Checkpoint 1                                                | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) | Oct. 25 |
+| Checkpoint 1                                                | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) |  |
 | Checkpoint 2                                                | **Group+instructor presentation**<br>Progress report         |  |
 | Final submission (tentative)                                | Start to care about submitting your last patches to the project |  |
 | Checkpoint 3                                                | Final presentation (group + instructor)<br>*can be done during office hours* |   |
