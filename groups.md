@@ -5,7 +5,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 1 - <GROUPNAME>
 * Brandon Visoky
 * Jacob Hagan
-* Kainoa
+* Kainoa Boyce
 
 ### Group 2 - <GROUPNAME>
 * Quinton Jasper
