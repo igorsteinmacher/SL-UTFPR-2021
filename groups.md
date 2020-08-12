@@ -19,6 +19,12 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Yihao Lu
 * Zhicen Liu
 
+### Group 4 - <GROUPNAME>
+* Caitlin Abuel
+* Courtney Richmond
+* Hannah Park
+* Parker Marschel
+
 ### Group n - <GROUPNAME>
 * Student 1
 * Student 2
