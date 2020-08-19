@@ -11,7 +11,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 2 - <GROUPNAME>
 * Quinton Jasper
 * Tyler Riese
-* Student 3
+* Liam Scholl
 * Student 4
   
 ### Group 3 - <GROUPNAME>
