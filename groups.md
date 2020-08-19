@@ -26,6 +26,12 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Hannah Park
 * Parker Marschel
 
+### Group 5 - <GROUPNAME>
+* Ferris Builer
+* Student 2
+* Student 3
+* Student 4
+
 ### Group n - <GROUPNAME>
 * Student 1
 * Student 2
