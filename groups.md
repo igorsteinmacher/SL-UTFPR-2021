@@ -37,3 +37,9 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Student 2
 * Student 3
 * Student 4
+
+### Group 10 - 
+* Israel Bermudes
+* Robert Pleuger
+* McKenna Chun
+* Logan Burbank
