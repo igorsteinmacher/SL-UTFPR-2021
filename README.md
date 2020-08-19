@@ -1,4 +1,4 @@
-# CS499-2018 - Open Source Software Development 
+# CS499 - Open Source Software Development 
 
 **Instructor**: Dr. Igor Steinmacher
 
