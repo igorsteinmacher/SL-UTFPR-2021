@@ -12,7 +12,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Quinton Jasper
 * Tyler Riese
 * Liam Scholl
-* Student 4
+* Melissa Peiffer
   
 ### Group 3 - <GROUPNAME>
 * Yuan Zan
