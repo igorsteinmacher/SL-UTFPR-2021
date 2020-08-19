@@ -6,7 +6,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Brandon Visoky
 * Jacob Hagan
 * Keil Hubbard
-* Student 4
+* Anton Freeman
 
 ### Group 2 - <GROUPNAME>
 * Quinton Jasper
