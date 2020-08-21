@@ -30,7 +30,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Ferris Builer
 * Saurabh Kakade
 * Anas Albedaiwi
-* Student 4
+* abdulaziz Alfort
 
 ### Group 6 - <GROUPNAME>
 * Shangyi Dai
