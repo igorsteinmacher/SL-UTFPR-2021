@@ -36,7 +36,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Shangyi Dai
 * Zhibang Qin
 * Ziang Zhou
-* Student 4
+* Hanyue Wang
 
 ### Group n - <GROUPNAME>
 * Student 1
