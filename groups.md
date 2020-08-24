@@ -50,14 +50,14 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Student 3
 * Student 4
 
-### Group n - <GROUPNAME>
-* Student 1
+### Group 8 - <GROUPNAME>
+* Batai Finley
 * Student 2
 * Student 3
 * Student 4
 
-### Group 8 - <GROUPNAME>
-* Batai Finley
+### Group 9 - <GROUPNAME>
+* Student 1
 * Student 2
 * Student 3
 * Student 4
@@ -67,3 +67,16 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Robert Pleuger
 * McKenna Chun
 * Logan Burbank
+
+### Group 11 - <GROUPNAME>
+* Student 1
+* Student 2
+* Student 3
+* Student 4
+
+### Group 12 - <GROUPNAME>
+* Student 1
+* Student 2
+* Student 3
+* Student 4
+
