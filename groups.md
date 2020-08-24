@@ -39,6 +39,12 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Hanyue Wang
 
 ### Group 7 - <GROUPNAME>
+* Elijah Anakalea-Buckley
+* Darius Dumel
+* Milton Ibera
+* Jared Weinberger
+  
+### Group 8
 * Daniel Rustrum
 * Student 2
 * Student 3
