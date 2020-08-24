@@ -27,7 +27,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Parker Marschel
 
 ### Group 5 - GROUPNAME
-* Ferris Builer
+* Student 1
 * Saurabh Kakade
 * Anas Albedaiwi
 * abdulaziz Alfort
@@ -46,7 +46,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
   
 ### Group 8
 * Daniel Rustrum
-* Student 2
+* Ian Ambos
 * Student 3
 * Student 4
 
