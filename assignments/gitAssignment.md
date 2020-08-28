@@ -57,7 +57,7 @@ and (ii) change to this branch
 
 ```
    
-6. Edit B.py adding the following source code below the content you have there
+6. Edit B.java adding the following source code below the content you have there
 ```
 print 'I know math, look:'
 print 2+2
@@ -69,7 +69,7 @@ print 2+2
 
 ```
 
-8. Change back to the `master` branch and change B.py adding the following source code (commit your change to `master`):
+8. Change back to the `master` branch and change B.java adding the following source code (commit your change to `master`):
 ```
 print 'hello world!'
 ```
@@ -86,7 +86,7 @@ print 'hello world!'
 
 ```
    
-11. Now repeat item 9, but proceed with the manual merge (Editing B.py). All implemented functions are needed. Explain your procedure
+11. Now repeat item 9, but proceed with the manual merge (Editing B.java). All implemented functions are needed. Explain your procedure
 ```
 
 
