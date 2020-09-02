@@ -27,10 +27,10 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Parker Marschel
 
 ### Group 5 - GROUPNAME
-* Student 1
+* Justin Coffey
 * Saurabh Kakade
 * Anas Albedaiwi
-* abdulaziz Alfort
+* Abdulaziz Alfort
 
 ### Group 6 - GROUPNAME
 * Shangyi Dai
@@ -47,20 +47,15 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 8
 * Daniel Rustrum
 * Ian Ambos
-* Student 3
-* Student 4
+* Bianca Trinkenreich
+* Andres Sepulveda
+* Mohammadreza Soltany Sadrabadi
 
-### Group 8 - <GROUPNAME>
+### Group 9 
 * Batai Finley
-* Student 2
-* Student 3
-* Student 4
-
-### Group 9 - <GROUPNAME>
-* Student 1
-* Student 2
-* Student 3
-* Student 4
+* Jared Cox
+* Kailin Chen
+* Mark Anthony Malone
   
 ### Group 10 - GROUPNAME
 * Israel Bermudes
@@ -68,13 +63,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * McKenna Chun
 * Logan Burbank
 
-### Group 11 - <GROUPNAME>
-* Student 1
-* Student 2
-* Student 3
-* Student 4
-
-### Group 12 - <GROUPNAME>
+### Group 11 - GROUPNAME
 * Student 1
 * Student 2
 * Student 3
