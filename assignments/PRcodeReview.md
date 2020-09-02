@@ -2,7 +2,7 @@
 
 **GROUP ASSIGNMENT**
 
-**Deadline**: September 4 (Code implementation)/September 9 (Code Review)/Implement changes (September 14)
+**Deadline**: September 9 (Code implementation)/September 11 (Code Review)/Implement changes (September 16)
 
 **How to submit**: Pull Request in GitHub *and send a screenshot on BBLearn after each step above (there will be 3 assignments)*
 
