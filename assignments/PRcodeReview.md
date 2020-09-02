@@ -15,7 +15,7 @@ You have to write code for that will be code reviewed by one of your peers. The 
 3. Revise your code according to the review received
 
 ### Details and dates
-Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 4th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to prepare your first round of reviews by **September 9th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **September 14th**. If you do not have your code on the Sept. 4th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
+Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 9th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to prepare your first round of reviews by **September 11th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **September 16th**. If you do not have your code on the Sept. 4th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
 
 ## Some specifics:
 1. I want you to practice the GitHub workflow as well. So, create a repo under [NAU-OSS](https://www.github.com/NAU-OSS) (Even if there is nothing there, just create the project);
