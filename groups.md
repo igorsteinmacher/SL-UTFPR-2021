@@ -64,8 +64,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Logan Burbank
 
 ### Group 11 - GROUPNAME
-* Student 1
-* Student 2
-* Student 3
-* Student 4
-
+* Robel Tegegne
+* Melina Diamond-Sagias
+* Bradley Kukuk
+* Abdulrahman Alamoudi
