@@ -5,14 +5,16 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 ### Group 1 - GROUPNAME 
 * Brandon Visoky
 * Jacob Hagan
-* Keil Hubbard
 * Anton Freeman
+* Abdulrahman Alamoudi
+* Melina Diamond-Sagias
 
 ### Group 2 - GROUPNAME
-* Quinton Jasper
 * Tyler Riese
 * Liam Scholl
 * Melissa Peiffer
+* Batai Finley
+* Mark Anthony Malone
   
 ### Group 3 - GROUPNAME
 * Yuan Zan
@@ -43,7 +45,8 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Darius Dumel
 * Milton Ibera
 * Jared Weinberger
-  
+* *Kailin Chen*
+
 ### Group 8
 * Daniel Rustrum
 * Ian Ambos
@@ -52,19 +55,20 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Mohammadreza Soltany Sadrabadi
 
 ### Group 9 
-* Batai Finley
-* Jared Cox
-* Kailin Chen
-* Mark Anthony Malone
-  
+**-----**
+
 ### Group 10 - GROUPNAME
 * Israel Bermudes
 * Robert Pleuger
 * McKenna Chun
 * Logan Burbank
+* *Jared Cox*
+
 
 ### Group 11 - GROUPNAME
 * Robel Tegegne
-* Melina Diamond-Sagias
-* Bradley Kukuk
-* Abdulrahman Alamoudi
+* Bradley Kuku
+* *Keil Hubbard*
+* *Quinton Jasper*
+
+
