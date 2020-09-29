@@ -67,8 +67,3 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * *Jared Cox*
 
 
-### Group 11 - GROUPNAME
-* *Keil Hubbard*
-* *Quinton Jasper*
-
-
