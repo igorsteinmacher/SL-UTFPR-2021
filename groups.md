@@ -27,6 +27,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Courtney Richmond
 * Hannah Park
 * Parker Marschel
+* *Bradley Kukuk*
 
 ### Group 5 - GROUPNAME
 * Justin Coffey
@@ -67,7 +68,6 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 
 ### Group 11 - GROUPNAME
 * Robel Tegegne
-* Bradley Kuku
 * *Keil Hubbard*
 * *Quinton Jasper*
 
