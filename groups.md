@@ -34,6 +34,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Saurabh Kakade
 * Anas Albedaiwi
 * Abdulaziz Alfort
+* Robel Tegegne
 
 ### Group 6 - GROUPNAME
 * Shangyi Dai
@@ -67,7 +68,6 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 
 
 ### Group 11 - GROUPNAME
-* Robel Tegegne
 * *Keil Hubbard*
 * *Quinton Jasper*
 
