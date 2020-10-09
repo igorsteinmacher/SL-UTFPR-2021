@@ -46,9 +46,9 @@ Here is a initial/live list
 
 * Alami, Adam, Marisa Leavitt Cohn, and Andrzej Wąsowski. "Why does code review work for open source software communities?." 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE). IEEE, 2019.https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812037&casa_token=2VdW3vycv2EAAAAA:AxbcJjso8VqhXhpmJzKFFJOvLycmtK7a_XCyerzSdBC_X7aPkERrXbE3O0XcFbZajiZxRuqbUB0
 
+* Miller, C., Widder, D. G., Kästner, C., & Vasilescu, B. "Why do people give up flossing? A study of contributor disengagement in open source"  In IFIP International Conference on Open Source Systems (pp. 116-129). Springer, Cham. http://www.cs.cmu.edu/~ckaestne/pdf/oss19.pdf
+
 * Lee, Amanda, Jeffrey C. Carver, and Amiangshu Bosu. "Understanding the Impressions, Motivations, and Barriers of One Time Code Contributors to FLOSS Projects: A Survey"  2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE) 2017 May 20 (pp. 187-197). IEEE. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7985661&casa_token=c-5eBl_dytgAAAAA:G7TzNupKvKkWNY1mbw7V6wumiO-umcqyAQccQt50Qv0zVu9Ft0lV06gZgimC9-V_LPPjq-8911w&tag=1
-
-
 
 
 
