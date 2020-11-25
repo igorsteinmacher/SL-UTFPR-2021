@@ -52,5 +52,5 @@ Here is a initial/live list
 
 * Wurzelová, P., Palomba, F., & Bacchelli, A. (2019, May). Characterizing women (not) contributing to open-source. In 2019 IEEE/ACM 2nd International Workshop on Gender Equality in Software Engineering (GE) (pp. 5-8). IEEE. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8819505&casa_token=sxovxuL0sAgAAAAA:BKIqnoNSwG9Ell00sfjWAm32cctNOhb1G13te5gDBVX_aAZB_Rd8Tz1g6KSntq6OF5AIiOMVtCo&tag=1
 
-
+* Bosu, A., & Sultana, K. Z. (2019, September). Diversity and inclusion in open source software (OSS) projects: Where do we stand?. In 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-11). IEEE. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870179&casa_token=O8Q177JfeBwAAAAA:JO1X8YzxkCKJCuWzD9HPIO9W3T_EVAUakVhMmXxGUqee_6jaVGk2nDN46rDPGUvKOPvaIaxAjr0&tag=1
 
