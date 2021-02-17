@@ -1,8 +1,8 @@
 # Contribuição para um projeto de software de software livre
 
-** ATRIBUIÇÃO DE GRUPO **
+**GRUPO**
 
-** Prazo **: MÚLTIPLOS (OLHOS ABERTOS)
+**Prazo**: MÚLTIPLOS (OLHOS ABERTOS)
 
 Solicita-se que você faça uma contribuição significativa para um projeto de software livre. Você precisará interagir com a comunidade e a base de código existente. Você DEVE fazer uma contribuição de código. Você pode começar com uma pequena contribuição na documentação ou tradução para aprender o processo (embora isso não seja obrigatório).
 
