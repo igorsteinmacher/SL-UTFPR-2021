@@ -1,56 +1,54 @@
-# How is the project structured?!?
+# Como o projeto é estruturado?
 
-Copy this markdown to your repo under NAU-OSS and fill the gaps according to the details of the project your group is contributing to.
+Copie esta marcação para o seu repo em UTFPR-SL e preencha as lacunas de acordo com os detalhes do projeto para o qual seu grupo está contribuindo.
 
-This will help you on your way!
+Isso irá ajudá-lo no seu caminho!
 
-If you don't know, try to search for it. If you don't find, fill with N/A
+Se você não sabe, tente pesquisar. Se você não encontrar, preencha com N/A
 
-# Details about <Name_of_project>
+# Detalhes sobre <Name_of_project>
 
-## Resources available (URLs)
+## Recursos disponíveis (URLs)
 
-  * Main language used:
-  * Other technologies used (databases, frameworks, languages):
+  * Idioma principal usado:
+  * Outras tecnologias utilizadas (bancos de dados, frameworks, linguagens):
 
-## Resources available (URLs)
+## Recursos disponíveis (URLs)
 
-  * Homepage:
-  * Contribution guide:
-  * Issue tracker:
-  * Code of conduct: 
-  * Development wiki
+  * Pagina inicial:
+  * Guia de contribuição:
+  * Rastreador de problemas:
+  * Código de Conduta:
+  * Wiki de desenvolvimento
 
-## Finding an issue to work on
+## Encontrar uma tarefa para trabalhar
   
-  * Does the project use tags to identify easy tasks?
-  * If yes, which tag(s) is(are) used?
+  * O projeto usa tags para identificar tarefas fáceis?
+  * Se sim, qual(is) tag(s) é(são) usada(s)?
   
-## Key personnel
+## Pessoal-chave
 
-  * Do you have any contact in the project? Who?
-  * Who are the main contributors of the project (find it)?
+  * Você tem algum contato no projeto? Quem?
+  * Quem são os principais contribuidores do projeto (encontre)?
   
-## Communicating with the community
+## Comunicando-se com a comunidade
   
-  * What are the communication means available and what are the focus of each? (Forums, mailing lists, issue tracker, IRC, Slack, etc.)
-  * Have you already used any of them?
+  * Quais são os meios de comunicação disponíveis e quais são os enfoques de cada um? (Fóruns, listas de discussão, rastreador de problemas, IRC, Slack, etc.)
+  * Você já usou algum deles?
 
-## Workspace setup
+## Configuração do espaço de trabalho
 
-  * Are there tutorials, guidelines or FAQs about setting up the local workspace?
-  * Does the community recommend any specific OS or IDE? Which one(s)?
+  * Existem tutoriais, diretrizes ou perguntas frequentes sobre como configurar o espaço de trabalho local?
+  * A comunidade recomenda algum sistema operacional ou IDE específico? Quais?
 
-## Code documentation
+## Documentação do código
   
-   * Is any kind of code documentation available? Where?
+   * Existe algum tipo de documentação de código disponível? Onde?
     
-   * Is the architecture documented?
-   * Are there code standards policies/guidelines available? Where?
+   * A arquitetura está documentada?
+   * Existem políticas / diretrizes de padrões de código disponíveis? Onde?
     
-## Submitting your contribution
+## Enviando sua contribuição
 
-  * Are there guidelines on how to create a submission? Where?
-  * Is there any kind of checklist to follow?
-
-    
+  * Existem diretrizes sobre como criar um envio? Onde?
+  * Existe algum tipo de lista de verificação a seguir?
