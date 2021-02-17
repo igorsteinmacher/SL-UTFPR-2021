@@ -1,30 +1,30 @@
-# Pull request and Code review assignment
+# Pull request e Code review 
 
-**GROUP ASSIGNMENT**
+**INDIVIDUAL**
 
-**Deadline**: September 9 (Code implementation)/September 11 (Code Review)/Implement changes (September 16)
+**Deadline**: XXXXX
 
-**How to submit**: Pull Request in GitHub *and send a screenshot on BBLearn after each step above (there will be 3 assignments)*
+**How to submit**: Pull Request no GitHub
 
-**Value**: Part of in-class/short assignments grade
+**Value**: 
 
-You have to write code for that will be code reviewed by one of your peers. The assignment has three steps:
+Você tem que escrever um código que será revisado por um de seus colegas. A tarefa tem três etapas:
 
-1. Writing the code according to the specification: You and your group need to choose and implement one of the three functions required below (Numbered F1, F2, F3). Write the code, and submit a pull request (see **specifics** below). I will assign the reviewer for the code. You will be evaluated for the second part of this assignment, and **you will not be allowed to take part at it if your group do not submit a solution.** As part of your pull request message, remember to clearly identify which function you implemented and providing any details you find necessary for the reviewer understanding.
-2. Reviewing your colleague's code: The focus here is **CODE REVIEW**, meaning help improving the code quality in different aspects, verifying the function, readability, maintainability, *etc*. Code review should heavily focus on clarity, communication, and collaboration. This assignment **does not aim to evaluate the code you produce**. The focus is on practicing code review, and it will be graded more like an essay - tone and content matter more than spotting the logic bugs. Remember, that we are focusing on Open Source Software, so you need to be welcoming, use the appropriate tone (not being rude or harsh), and point out problems and potential solutions.
-3. Revise your code according to the review received
+1. Escrever o código de acordo com a especificação: Você e seu grupo precisam escolher e implementar _uma das três_ funções exigidas abaixo (numeradas F1, F2, F3). Escreva o código e envie um pull request (consulte **especificações** abaixo). Vou designar o revisor para o código. Você será avaliado pela segunda parte desta tarefa e **você não terá permissão para participar dela se não enviar a primeira parte.** Como parte de sua mensagem de pull request, lembre-se de identificar claramente qual função você implementou e fornecer todos os detalhes que achar necessários para a compreensão do revisor.
 
-### Details and dates
-Each of you will be assigned a function (see below). You must **implement and create the pull request** with your function by **September 9th**. Right after that I will assign the reviews across those who submitted the pull requests and I expect you to prepare your first round of reviews by **September 11th**. After the review you will receive a list of items that need to be changed (as decided by the review team). The final part of the assignment is to implement the changes by **September 16th**. If you do not have your code on the Sept. 4th to distribute to the other team members, or do not hand in your updated code you will not receive credit for the assignment.
+2. Revisando o código do seu colega: O foco aqui é **CODE REVIEW**, focando em ajudar a melhorar a qualidade do código em diferentes aspectos, verificando a função, legibilidade, manutenibilidade, etc. A revisão do código deve focar fortemente na clareza, comunicação e colaboração. Esta atribuição **não tem como objetivo avaliar o código que você produz**. O foco é praticar a revisão do código e será avaliado mais como uma redação - o tom e o conteúdo importam mais do que a detecção de bugs lógicos. Lembre-se de que estamos falando em Software Livre, então você precisa ser receptivo, usar o tom apropriado (não sendo rude ou rude) e apontar problemas e soluções potenciais.
+3. Ajuste seu código de acordo com a revisão recebida
 
-## Some specifics:
-1. I want you to practice the GitHub workflow as well. So, create a repo under [NAU-OSS](https://www.github.com/NAU-OSS) (Even if there is nothing there, just create the project);
-2. Fork the project (if you don't have a fork under your profile yet);
-3. Create a folder called "**assignmentPR**" in the root of the project and work inside this folder;
-4. Submit your files and changes using git commands (commits, pushes), and submit them to the main repo by creating a pull request
+### Detalhes
+Cada um de vocês receberá uma função (veja abaixo). Você deve **implementar e criar o pull request** com sua função até o dia **XXXX**. Em seguida, atribuirei as avaliações àqueles que enviaram pull requests e espero que você prepare sua primeira rodada de avaliações até **XXXXX**. Após a revisão, você receberá uma lista de itens que precisam ser alterados (conforme decidido pelo revisor). A parte final da tarefa é implementar as mudanças até **XXXX**. Se você não tiver seu código no dia definido para envio, ou não entregar seu código atualizado, você não receberá crédito pela tarefa.
 
+## Algumas coisinhas a mais:
+1. Quero que você pratique o fluxo de trabalho do GitHub também. Portanto, crie um repo em [UTFPR-SL] (https://www.github.com/UTFPR-SL) (Mesmo que não haja nada lá, basta criar o projeto);
+2. Faça um fork do projeto (se você ainda não tiver um em seu perfil);
+3. Crie uma pasta chamada "**assignPR**" na raiz do projeto e trabalhe dentro desta pasta;
+4. Envie seus arquivos e alterações usando comandos git (commits, pushes) ao seu fork e envie-os ao repositório principal criando um  pull request
 
-## Features
+## Funções (em inglês)
 
 The application you will be writing for is intended to run on a small, inexpensive embedded device that *does not have a floating point unit*. This means that the processor can only do integer arithmetic. However, the device does have a display and *needs to display the result of floating point* arithmetic to the user. Because this is a small inexpensive processor *there is no support for strings or any mathematical library functions*. You must write all the code yourselves *performing all the floating point math with integers only and no strings!* Character arrays, or C strings, can't tell you their size but  they do end with a '\0' character.
 
