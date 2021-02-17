@@ -1,7 +1,7 @@
 
 |           |                                                                                |     Entrega (deadline)               |     Novo trabalho                     |
 |-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|
-| 18-Feb-21 |     Welcome! ([Slides])(notes/Lecture_01.pdf)                                                                   |                                      |                                      |
+| 18-Feb-21 |     Welcome! ([Slides](notes/Lecture_01.pdf))                                                                   |                                      |                                      |
 | 23-Feb-21 |     OSS Basics: Open Source: What is it?!?                                     |                                      |                                       | 
 | 25-Feb-21 | ** Como montar um negócio baseado em SL?                                       |                                      |                                       |
 | 2-Mar-21  |     OSS Basics: History and reasons                                            |                                      | Contribuição para o Wikipedia         |
