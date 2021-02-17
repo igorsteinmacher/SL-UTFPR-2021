@@ -1,28 +1,26 @@
-# CS499 - Open Source Software Development 
+# Desenvolvimento de Software Livre 
 
-**Instructor**: Dr. Igor Steinmacher
+**Professor**: Dr. Igor Steinmacher
 
-**Email**: Igor.Steinmacher@nau.edu
+**Email**: igorfs@utfpr.edu.br
 
-**Office Hours**: MWF 09:00-10:00 AM; Room 090-115. 
+**PAluno**: Quintas-feiras 19:30-21:10
 
-**SLACK:** Please hangout, discuss, create channels for specific groups and issues. [Click here](https://join.slack.com/t/cs499-2020/shared_invite/zt-gf8i3aeb-pNWSNYY9BqUXw70v0NEgbw) to join the course Slack 
+**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/softwarelivre2021/shared_invite/zt-m44n2h3n-~4K_Q8dXNdxwbcMcKAhrCQ) para acessar o curso 
 
-## Groups
+## Grupos
 
-Please, list your group in the [group page](groups.md). Do it by [changing it](groups.md) and submitting a pull request.
+Quando definir seu par, adicione os nomes aqui na [página de grupos](groups.md). Faça isso [alterando a página](groups.md) e criando um pull request.
 
-## Reference
+## Referencia
 
-The main book for this course is:
+O livro principal aqui é:
 * FOGEL, Karl. **Producing Open Source Software**. O'Reilly. Available online:  http://producingoss.com (Creative Commons)
 
-## Interesting movies
+## Filmes bacanas
 * [Revolution OS](http://www.revolution-os.com/) "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement."
 * [The Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
 
-## Navigate the course
-All information is on [BBLearn](https://bblearn.nau.edu)
 
 ## Course Purpose
 This course is intended to familiarize students with the fundamentals of Open Source Software development. We aim to prepare the students for the real world, exposing them to real projects. The practical objective of the course is to teach students how to participate in an OSS project. Specific areas addressed in this course are:
