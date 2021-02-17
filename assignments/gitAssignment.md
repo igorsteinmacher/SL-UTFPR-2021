@@ -2,22 +2,21 @@
 
 **INDIVIDUAL ASSIGNMENT**
 
-**Value**: Part of in-class/short assignments grade
+**Value**: 
 
 ## Description
 
 ### Understanding the repo
-To conduct this, you will have to download [handson.zip](handson.zip) and unzip it.
-handson folder is a git repository. Using the command line change the directory to "handson/"
+Para fazer isso, você terá que baixar [handson.zip] (handson.zip) e descompactá-lo.
+A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson /"
 
-The empty boxes
+As caixas vazias
 ```
 
 ```
-represent the content you need to fill and post on your private repository
+representam o conteúdo que você precisa preencher e postar em seu repositório privado
 
-
-1. Describe what is the output of the following commands
+1. Descreva qual é a saída dos seguintes comandos
     -  `git branch` 
     -  `git checkout BRANCH_NAME` (USE THE NAME OF AN EXISTING BRANCH)
     -  `git log --decorate`
@@ -27,72 +26,72 @@ represent the content you need to fill and post on your private repository
 
 ```
 
-2. Try `git log --graph --all`. What do you see?
+2. Tente usar `git log --graph --all`. O que acontece?
 ```
 
 
 ```
 
-3. Use `git diff BRANCH_NAME` to view the differences from a branch and the current branch.
-   Summarize the difference from master to the other branch.
-
-```
-
-
-```
-
-4. Write a command sequence to merge the non-master branch into `master`
+3. Use `git diff BRANCH_NAME`  para ver as diferenças de um ramo e do ramo atual.
+   Sumarize as diferenças do master e do outro ramo.
 
 ```
 
 
 ```
 
+4. Escreva uma sequencia de comandos para mesclar o ramo não-master no `master`
 
-5. Write a command (or sequence) to (i) create a new branch called `math` (from the `master`) 
-and (ii) change to this branch
+```
+
+
+```
+
+
+5. Escreva um comando (ou sequência) para (i) criar um novo ramo chamado `math` (do` master`)
+e (ii) mudar para este ramo
 
 ```
 
 
 ```
    
-6. Edit B.java adding the following source code below the content you have there
+6. Edite B.java adicionando o código abaixo ao conteúdo do arquivo
 ```java
 System.out.println("I know math, look:")
 System.out.println(2+2)
 ```
 
-7. Write a command (or sequence) to commit your changes
+7. Escreva o comando (ou sequencia) para realizar o commit de suas mudanças
 ```
 
 
 ```
 
-8. Change back to the `master` branch and change B.java adding the following source code (commit your change to `master`):
+8. Volte para o branch `master` e mude B.java adicionando o seguinte código-fonte (confirme sua mudança para` master`):
 ```java
 System.out.println("Hello World")
 ```
 
-9. Write a command sequence to merge the `math` branch into `master` and describe what happened
+9. Escreva uma sequência de comando para mesclar o branch `math` em` master` e descreva o que aconteceu
 ```
 
 
 ```
    
-10. Write a set of commands to abort the merge
+10. Escreva um conjunto de comandos para abortar a mesclagem
 ```
 
 
 ```
    
-11. Now repeat item 9, but proceed with the manual merge (Editing B.java). All implemented functions are needed. Explain your procedure
+11. Agora repita o item 9, mas prossiga com a mesclagem manual (Editando B.java). Todas as funções implementadas são necessárias. Explique o seu procedimento
 ```
 
 
 ```
 
-12. Write a command (or set of commands) to proceed with the merge and make `master` branch up-to-date
+12. Escreva um comando (ou conjunto de comandos) para prosseguir com a mesclagem e atualizar o branch `master`
 ```
 
 
