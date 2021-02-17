@@ -8,7 +8,7 @@
 | 4-Mar-21  | ** Atividade Catedral e o Bazar                                                |                                      |                                       |
 | 9-Mar-21  |     OSS Infrastructure: Git and GitHub                                         | Contribuição para o Wikipedia        | Lidando com o Git                     |
 | 11-Mar-21 | ** Atividade Lidando com Git                                                   |                                      |                                       |
-| 16-Mar-21 |     OSS Infrastructure: Code Review                                            |                                      |     Pull Request/Code Review Activity |
+| 16-Mar-21 |     OSS Infrastructure: Code Review                                            |Lidando com o Git                     |     Pull Request/Code Review Activity |
 | 18-Mar-21 | ** Code review                                                                 |                                      |                                       |
 | 23-Mar-21 |     Creating an OSS project                                                    |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
 | 25-Mar-21 | ** Pesquisar sobre   Integração Continua e criar uma instancia para um projeto |                                      |                                       |
