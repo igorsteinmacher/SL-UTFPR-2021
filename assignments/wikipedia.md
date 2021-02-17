@@ -1,17 +1,15 @@
-# Contribution to Wikipedia
+# Contribuição para o Wikipedia
 
-**INDIVIDUAL ASSIGNMENT**
+**INDIVIDUAL**
 
-**Deadline**: October 18
+**Deadline**: 
 
-**How to submit**: Document to BBLearn
+**How to submit**: Enviar por email para o professor o link para o artigo e um resumo da descrição
 
-**Value**: 10%
+**Value**: 5%
 
 
 
-Each student will be required to make a significant contribution to a Wikipedia article of their choice. This will introduce you to the process of contributing to a crowd-sourced platform. Create an account (in case you do not have one) and go ahead. Fight the good fight.
+Cada aluno deverá fazer uma contribuição significativa para um artigo da Wikipedia de sua escolha. Isso o apresentará ao processo de contribuição para uma plataforma de crowdsourcing. Crie uma conta (caso ainda não tenha) e vá em frente. Lute a boa luta.
 
-The deliverable can either be document with a link to the contribution (if accepted) or a brief explanation why the contribution was not accepted by the community. 
-
-As a new contributor, you may feel a little overwhelmed by the sheer size and scope of this project called Wikipedia. Don't worry too much if you don't understand everything at first, as it is acceptable to use common sense as you go about editing. Wikipedia not only allows you to create, revise, and edit articles, but it wants you to do so. You just need to remember that you can't break Wikipedia and although there are many protocols, perfection is not required, as Wikipedia is a work in progress. Collaborative editing means that incomplete or poorly written first drafts can evolve over time into excellent articles.
+Como um novo colaborador, você pode se sentir um pouco sobrecarregado pelo tamanho e escopo deste projeto chamado Wikipedia. Não se preocupe muito se você não entender tudo no início. A Wikipedia não apenas permite que você crie, revise e edite artigos, mas deseja que você o faça. Você só precisa lembrar que você não pode quebrar a Wikipedia e, embora hajam muitos protocolos, não é preciso ser perfeito, pois a Wikipedia é um trabalho em andamento. A edição colaborativa significa que primeiros rascunhos incompletos ou mal escritos podem evoluir com o tempo para artigos excelentes.
