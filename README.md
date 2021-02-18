@@ -28,7 +28,7 @@ O livro principal aqui é:
 ## Objetivo do curso
 Este curso tem como objetivo familiarizar os alunos com os fundamentos do desenvolvimento de Software Livre. O objetivo é preparar os alunos para o mundo real, expondo-os a projetos reais. O objetivo prático do curso é ensinar aos alunos como participar de um projeto de Software Livre. As áreas específicas abordadas neste curso são:
 * História e conceitos de SL;
-* Comunidades e forjas de SL;
+* Comunidades e ambientes de SL;
 * Propriedade intelectual e licença;
 * Sistemas de controle de versão;
 * Ferramentas de comunicação;
