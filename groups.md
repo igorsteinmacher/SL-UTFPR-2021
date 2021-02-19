@@ -1,6 +1,6 @@
-# Groups
+# Grupos
 
-These are the Groups for this class. Please group yourselves in teams of 3 or 4 students and add your names here:
+Adicionem suas duplas:
 
 ### Grupo 1
 *
