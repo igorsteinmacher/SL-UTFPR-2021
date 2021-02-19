@@ -6,8 +6,9 @@
 
 **PAluno**: Quintas-feiras 19:30-21:10
 
-**Planejamento das aulas**: [Clique Aqui](outline.md): Terças serãoo síncronas, quintas serão atividades/assíncronas
+**Aulas**: Terça-feira 19:30-21:10 / Quinta-feira (Assíncrona, mas estarei disponível das 21:20-23:00)
 
+**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
 
 **SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/softwarelivre2021/shared_invite/zt-m44n2h3n-~4K_Q8dXNdxwbcMcKAhrCQ) para acessar o curso 
 
@@ -24,25 +25,21 @@ O livro principal aqui é:
 * [Revolution OS](http://www.revolution-os.com/) "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement."
 * [The Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)
 
+## Objetivo do curso
+Este curso tem como objetivo familiarizar os alunos com os fundamentos do desenvolvimento de Software Livre. O objetivo é preparar os alunos para o mundo real, expondo-os a projetos reais. O objetivo prático do curso é ensinar aos alunos como participar de um projeto de Software Livre. As áreas específicas abordadas neste curso são:
+* História e conceitos de SL;
+* Comunidades e ambientes de SL;
+* Propriedade intelectual e licença;
+* Sistemas de controle de versão;
+* Ferramentas de comunicação;
+* Contribuição para projeto de Software Livre.
 
-## Course Purpose
-This course is intended to familiarize students with the fundamentals of Open Source Software development. We aim to prepare the students for the real world, exposing them to real projects. The practical objective of the course is to teach students how to participate in an OSS project. Specific areas addressed in this course are:
-* Open source concepts and history;
-* Open source communities and forges;
-* Intellectual property and license;
-* Version control systems;
-* Communications tools;
-* Issue trackers;
-* Contribution to Open Source Software project.
-
-## Course Student Learning Outcomes
-Upon successful completion of this course, students will be able to demonstrate the following
-advanced competencies:
-* LO1: understand how a team interact and collaborate to develop a software;
-* LO2: differentiate between open source and closed source software;
-* LO3: use version control system and issue tracker as development tools;
-* LO4: evaluate and review code contributions;
-* LO5: understand intellectual property rights, licensing, and the implications of using open source;
-* LO6: build solutions and fixes in order to contribute to a project with legacy code;
-* LO7: participate in an OSS community, contributing code;
-* LO8: understand open source project management.  
+## Resultados de aprendizagem do aluno do curso
+Após a conclusão deste curso, os alunos serão capazes de demonstrar o seguinte
+competências avançadas:
+* entender como uma equipe interage e colabora para desenvolver um software;
+* usar sistema de controle de versão e rastreador de problemas como ferramentas de desenvolvimento;
+* avaliar e revisar as contribuições do código;
+* compreender os direitos de propriedade intelectual, licenciamento e as implicações do uso de SL;
+* construir soluções e correções de forma a contribuir para um projeto com SL;
+* participar de uma comunidade SL, contribuindo com SL.
