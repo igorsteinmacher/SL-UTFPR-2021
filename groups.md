@@ -3,8 +3,8 @@
 Adicionem suas duplas:
 
 ### Grupo 1
-*
-*
+* Higor Celante
+* Henrique Figueira
 
 ### Grupo 2
 *
