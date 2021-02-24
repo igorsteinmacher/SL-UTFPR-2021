@@ -1,12 +1,12 @@
-# Como ganhar dinheiro com Software :Lovre  
+# Como ganhar dinheiro com Software Livre  
 
-** TRABALHO EM DUPLA **
+**TRABALHO EM DUPLA**
 
-**Prazo: **: 04/03/2021 (Quinta) até as 23:59
+**Prazo:**: 04/03/2021 (Quinta) até as 23:59
 
 **Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2021: Tarefa 1"
 
-Este trabalho é referente à aula assíncrona de 05/02/2021. Para esse trabalho vocês devem:
+Este trabalho é referente à aula assíncrona de 25/02/2021. Para esse trabalho vocês devem:
 
 * Buscar referências sobre modelos de negócio e meios de ganhar dinheiro com software livre
 
