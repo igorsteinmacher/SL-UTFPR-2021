@@ -2,7 +2,7 @@
 
 ** TRABALHO EM DUPLA **
 
-**Prazo: **: 02/03/2021 (Terça) até as 23:59
+**Prazo: **: 04/03/2021 (Quinta) até as 23:59
 
 **Como submeter**: Enviar um email para igorfs@utfpr.edu.br, com assunto "SL2021: Tarefa 1"
 
