@@ -3,7 +3,8 @@
 |-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|
 | 18-Fev-21 |     Welcome! ([Slides](notes/Lecture_01.pdf))                                                                   |                                      |                                      |
 | 23-Fev-21 |     Software Livre o que? ([Slides](notes/Lecture_02.pdf))                                      |                                      |                                       | 
-| 25-Fev-21 | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md))                                        |                                      |                                       |
+| 25-Fev-21 | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                                |                          |
+| 2-Mar-21  | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                  | Contribuição para o Wikipedia         |
 | 4-Mar-21  |     Software Livre: História e Motivos                                           |                                      | Contribuição para o Wikipedia         |
 | 6-Mar-21  | ** Atividade Catedral e o Bazar                                                |                                      |                                       |
 | 11-Mar-21  |     OSS Infrastructure: Git e GitHub                                         | Contribuição para o Wikipedia        | Lidando com o Git                     |
