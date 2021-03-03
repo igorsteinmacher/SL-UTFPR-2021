@@ -7,8 +7,8 @@ Adicionem suas duplas:
 * Henrique Figueira
 
 ### Grupo 2
-*
-*
+* Jorge Rossi
+* Dennis Urtubia
 
 ### Grupo 3
 *
