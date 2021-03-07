@@ -5,7 +5,7 @@
 | 23-Fev-21 |     Software Livre o que? ([Slides](notes/Lecture_02.pdf))                                      |                                      |                                       | 
 | 25-Fev-21 | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md))                                        |                                      |                                       |
 | 2-Mar-21  |     Software Livre: História e Motivos                                           |                                      | Contribuição para o Wikipedia         |
-| 4-Mar-21  | ** Atividade Catedral e o Bazar                                                |                                      |                                       |
+| 4-Mar-21  | ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))          |                                      |                                       |
 | 9-Mar-21  |     OSS Infrastructure: Git e GitHub                                         | Contribuição para o Wikipedia        | Lidando com o Git                     |
 | 11-Mar-21 | ** Atividade Lidando com Git                                                   |                                      |                                       |
 | 16-Mar-21 |     OSS Infrastructure: Code Review                                            |Lidando com o Git                     |     Pull Request/Code Review Activity |
