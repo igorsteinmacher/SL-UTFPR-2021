@@ -3,7 +3,7 @@
 * *Em duplas*
 * *Entrega até dia 11/Março ANTES DA AULA*
 
-Leiam o livro [A Catedral e o Bazaar](http://www.dominiopublico.gov.br/download/texto/tl000001.pdf).
+Leiam o livro [A Catedral e o Bazaar](https://www.ufrgs.br/soft-livre-edu/arquivos/a-catedral-e-o-bazar-eric-raymond.pdf).
 
 Prepare um documento que sumarize os seguintes pontos sobre o livro
 
