@@ -5,8 +5,8 @@
 | 2-Mar-21  | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                  |        |
 | 4-Mar-21  |     Software Livre: História e Motivos                                   |                                      |   |
 | 9-Mar-21  | ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))          |                                      |                                       |
-| 11-Mar-21  |     OSS Infrastructure: Git e GitHub                                         |                                        | Lidando com o Git                     |
-| 16-Mar-21 | ** Atividade Lidando com Git                                                   |                                      |                                       |
+| 11-Mar-21  |     OSS Infrastructure: Git e GitHub                                         |                                        | [Lidando com o Git](assignments/gitAssignment.md)                 |
+| 16-Mar-21 | ** Atividade [Lidando com Git](assignments/gitAssignment.md)                                                         |                                      |                                       |
 | 18-Mar-21 |     OSS Infrastructure: Code Review                                            |Lidando com o Git                     |     Pull Request/Code Review Activity |
 | 23-Mar-21 | ** Code review                                                                 |                                    |                                       |
 | 25-Mar-21 |     Criando um projeto                                                  |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
