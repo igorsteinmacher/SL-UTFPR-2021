@@ -1,13 +1,13 @@
 
 |           |                                                                                |     Entrega (deadline)               |     Novo trabalho         |
 |-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------|
-| 18-Fev-21 | Sobre a Disciplina ([Slides](slides/Lecture_01.pdf)                            |                                      |                           | 
-| 22-Fev-21 | Software Livre: Introdução ([Slides](slides/Lecture_02.pdf)                    |                                      |                           | 
+| 18-Fev-21 | Sobre a Disciplina ([Slides](slides/Lecture_01.pdf))                            |                                      |                           | 
+| 22-Fev-21 | Software Livre: Introdução ([Slides](slides/Lecture_02.pdf))                    |                                      |                           | 
 | 25-Fev-21 | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                               |                           |
 | 2-Mar-21  | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                               |                           |
-| 4-Mar-21  |     Software Livre: História e Motivos (continuação dos Slides                 |                                      |                           |
+| 4-Mar-21  |     Software Livre: História e Motivos (continuação dos Slides)                 |                                      |                           |
 | 9-Mar-21  | ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))          |                                      |                           |
-| 11-Mar-21  |     OSS Infrastructure: Git e GitHub ([Slides](slides/Lecture_03.pdf) |                                        | [Lidando com o Git](assignments/gitAssignment.md)                 | 
+| 11-Mar-21  |     OSS Infrastructure: Git e GitHub ([Slides](slides/Lecture_03.pdf)) |                                        | [Lidando com o Git](assignments/gitAssignment.md)                 | 
 | 16-Mar-21 | ** Atividade [Lidando com Git](assignments/gitAssignment.md)                                                         |                                      |                                       |
 | 18-Mar-21 |     OSS Infrastructure: Code Review                                            |Lidando com o Git                     |     Pull Request/Code Review Activity |
 | 23-Mar-21 | ** Code review                                                                 |                                    |                                       |
