@@ -5,13 +5,13 @@
 **Entrega**: 18-Mar-21
 
 ## Como entregar
-Copie o arquivo em seu repositorio e coloque as respostas nas caixas abaixo
+Copie o arquivo em um repositorio que seja seu e coloque as respostas nas caixas abaixo
 
 Abra uma issue nesse repositório aqui indicando o link para o arquivo no seu repo.
 
 ### Entenda o repositorio
-Para fazer isso, você terá que baixar [handson.zip] (handson.zip) e descompactá-lo.
-A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson /"
+Baixe o arquivo [handson.zip] (handson.zip) e descompacte-o
+A pasta handson é um repositório git. Usando a linha de comando, altere o diretório para "handson/"
 
 As caixas vazias
 ```
