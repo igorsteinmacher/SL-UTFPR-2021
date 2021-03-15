@@ -5,7 +5,8 @@
 **Entrega**: 18-Mar-21
 
 ## Como entregar
-Copie o arquivo em seu repositorio e coloque as respostas nas caixas
+Copie o arquivo em seu repositorio e coloque as respostas nas caixas abaixo
+
 Abra uma issue nesse repositório aqui indicando o link para o arquivo no seu repo.
 
 ### Entenda o repositorio
