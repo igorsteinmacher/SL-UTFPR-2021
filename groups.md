@@ -11,8 +11,8 @@ Adicionem suas duplas:
 * Dennis Urtubia
 
 ### Grupo 3
-*
-*
+* Ana Carolina Frozza
+* Ilzimara Silva e Silva
 
 ### Grupo 4
 *
