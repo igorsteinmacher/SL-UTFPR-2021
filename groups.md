@@ -11,8 +11,8 @@ Adicionem suas duplas:
 * Dennis Urtubia
 
 ### Grupo 3
-*
-*
+* Lucas Vinicius Ribeiro
+* Lucas Souza Santos
 
 ### Grupo 4
 *
