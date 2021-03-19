@@ -11,10 +11,14 @@ Adicionem suas duplas:
 * Dennis Urtubia
 
 ### Grupo 3
-* Lucas Vinicius Ribeiro
-* Lucas Souza Santos
+* Ana Carolina Frozza
+* Ilzimara Silva e Silva
 
 ### Grupo 4
-*
-*
+* Allison Sampaio
+* Rodrigo Paula da Silva
+
+### Grupo 5
+* Lucas Vinicius Ribeiro
+* Lucas Souza Santos
 
