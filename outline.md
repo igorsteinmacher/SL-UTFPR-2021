@@ -9,11 +9,11 @@
 | 9-Mar-21  | ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))          |                                      |                           |
 | 11-Mar-21  |     OSS Infrastructure: Git e GitHub ([Slides](slides/Lecture_03.pdf)) |                                        | [Lidando com o Git](assignments/gitAssignment.md)                 | 
 | 16-Mar-21 | ** Atividade [Lidando com Git](assignments/gitAssignment.md)                                                         |                                      |                                       |
-| 18-Mar-21 |     OSS Infrastructure: Code Review                                            |Lidando com o Git                     |     Pull Request/Code Review Activity |
-| 23-Mar-21 | ** Code review                                                                 |                                    |                                       |
-| 25-Mar-21 |     Criando um projeto                                                  |     Pull Request/Code Review         | Criar projeto + Escolher licença      |
-| 30-Mar-21 | ** Pesquisar sobre   Integração Continua e criar uma instancia para um projeto |                                      |                                      |
-| 1-Abr-21 | Contribuindo para um projeto                                                   |                                      |     Contribuição para OSS!!           |
+| 18-Mar-21 |  [Atividade!!!](assignments/preActivityEssay.md)                    |Lidando com o Git                     |            |
+| 23-Mar-21 | ** Atividade acima                                                                 |                                    |                                       |
+| 25-Mar-21 |  Criando um projeto   + licença                                               |                 | Criar projeto + Escolher licença      |
+| 30-Mar-21 | ** Code Review!!! Ver a aula gravada e fazer a primeira parte do exercício                       |                                      |               |
+| 1-Abr-21 | Contribuindo para um projeto                                                     |                                      |     Contribuição para OSS!!           |
 | 6-Abr-21  | ** Pesquisa sobre licenças                                                     |                                      |                                       |
 | 8-Abr-21  | Governança em projetos SL                                                        |     Criar projeto + Escolher licença |                                       |
 | 13-Abr-21  | ** Escolha do projeto: criar video apresentacao                                | Contribuição (Checkpoint 0)          |                                       |
