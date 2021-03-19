@@ -18,3 +18,7 @@ Adicionem suas duplas:
 * Allison Sampaio
 * Rodrigo Paula da Silva
 
+### Grupo 5
+* Lucas Vinicius Ribeiro
+* Lucas Souza Santos
+
