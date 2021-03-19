@@ -15,6 +15,6 @@ Adicionem suas duplas:
 *
 
 ### Grupo 4
-*
-*
+* Allison Sampaio
+* Rodrigo Paula da Silva
 
