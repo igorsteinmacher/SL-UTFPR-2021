@@ -22,3 +22,6 @@ Adicionem suas duplas:
 * Lucas Vinicius Ribeiro
 * Lucas Souza Santos
 
+### Grupo 6
+* Alan Rodrigo Patriarca Santana
+* Henrique Hércules Lopes dos Santos
