@@ -23,4 +23,8 @@ Adicionem suas duplas:
 * Lucas Souza Santos
 
 ### Grupo 6
+* Alan Rodrigo Patriarca Santana
+* Henrique Hércules Lopes dos Santos
+
+### Grupo 7
 * Otávio Goes
