@@ -12,7 +12,7 @@
 | 18-Mar-21 |  [Atividade!!!](assignments/preActivityEssay.md)                    |Lidando com o Git                     |            |
 | 23-Mar-21 | ** Atividade acima                                                                 |                                    |                                       |
 | 25-Mar-21 |  Criando um projeto   + licença                                               |                 | Criar projeto + Escolher licença      |
-| 30-Mar-21 | ** Code Review!!! Ver a aula gravada e fazer a primeira parte do exercício                       |                                      |               |
+| 30-Mar-21 | ** Criando seu projeto                      |                                      |               |
 | 1-Abr-21 | Contribuindo para um projeto                                                     |                                      |     Contribuição para OSS!!           |
 | 6-Abr-21  | ** Pesquisa sobre licenças                                                     |                                      |                                       |
 | 8-Abr-21  | Governança em projetos SL                                                        |     Criar projeto + Escolher licença |                                       |

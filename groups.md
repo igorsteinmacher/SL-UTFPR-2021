@@ -25,3 +25,6 @@ Adicionem suas duplas:
 ### Grupo 6
 * Alan Rodrigo Patriarca Santana
 * Henrique Hércules Lopes dos Santos
+
+### Grupo 7
+* Otávio Goes
