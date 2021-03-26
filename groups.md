@@ -28,3 +28,7 @@ Adicionem suas duplas:
 
 ### Grupo 7
 * Otávio Goes
+
+### Grupo 8
+* Luis Otavio Oliveira Capelari 
+* Luiz Henrique de Barros de Oliveira
