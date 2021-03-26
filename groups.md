@@ -22,3 +22,5 @@ Adicionem suas duplas:
 * Lucas Vinicius Ribeiro
 * Lucas Souza Santos
 
+### Grupo 6
+* Otávio Goes
