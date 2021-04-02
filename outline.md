@@ -13,7 +13,7 @@
 | 23-Mar-21 | ** Atividade acima                                                                 |                                    |                                       |
 | 25-Mar-21 |  Criando um projeto   + licença                                               |                 | [Criar projeto + Escolher licença](https://github.com/igorsteinmacher/SL-UTFPR-2021/blob/master/assignments/openYourProject.md)      |
 | 30-Mar-21 | ** Criando seu projeto                      |                                      |               |
-| 1-Abr-21 | Contribuindo para um projeto                                                     |                                      |     [Contribuição para OSS!!](https://github.com/igorsteinmacher/SL-UTFPR-2021/blob/master/assignments/contribution.md)        |
+| 1-Abr-21 | Contribuindo para um projeto ([Slides](slides/Lecture_05.pdf))                                                     |                                      |     [Contribuição para OSS!!](https://github.com/igorsteinmacher/SL-UTFPR-2021/blob/master/assignments/contribution.md)        |
 | 6-Abr-21  | ** Pesquisa sobre licenças                                                     |                                      |                                       |
 | 8-Abr-21  | Governança em projetos SL                                                        |     Criar projeto + Escolher licença |                                       |
 | 13-Abr-21  | ** Escolha do projeto: criar video apresentacao                                | Contribuição (Checkpoint 0)          |                                       |
