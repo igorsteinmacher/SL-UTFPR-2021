@@ -25,7 +25,7 @@ Ao final do semestre, espera-se que você tenha uma ou mais contribuições envi
 | Contribution to Open Source ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | |
 
 ### Video Logs
-A cada semana, a dupla deverá gravar um video log de 8-15 minutos, reportando o que foi feito, como foi feito, quais problemas foram encontrados. O Video log pode conter compartilhamento de telas, slides, figuras, ou o que o grupo achar necessário. É importante mostrar o que foi feito e como problemas foram resolvidos, bem como deixar o alerta de potenciais problemas que estejam bloqueando o andamento. A análise do andamento/progresso será feito com base nesses videos.
+A cada semana, a dupla deverá gravar um video log de 2-5 minutos, reportando o que foi feito, como foi feito, quais problemas foram encontrados. O Video log pode conter compartilhamento de telas, slides, figuras, ou o que o grupo achar necessário. É importante mostrar o que foi feito e como problemas foram resolvidos, bem como deixar o alerta de potenciais problemas que estejam bloqueando o andamento. A análise do andamento/progresso será feito com base nesses videos.
 
 
 *CASO O PROJETO SEJA HOSPEDADO NO GITHUB*: O grupo precisará fazer a curadoria de um fork do projeto em que trabalhará. Todos os commits precisam se tornar um Pull Request neste fork para treinar os alunos no uso do git e também no uso do GitHub. Para fazer isso, é recomendado que você crie um fork central, e cada aluno do grupo crie um "sub-fork". Sempre que houver um pull request pronto para revisão. Depois de receber a aprovação da revisão, você pode prosseguir e criar uma  pull request para o outro projeto.
