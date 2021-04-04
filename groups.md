@@ -11,10 +11,27 @@ Adicionem suas duplas:
 * Dennis Urtubia
 
 ### Grupo 3
-*
-*
+* Ana Carolina Frozza
+* Ilzimara Silva e Silva
 
 ### Grupo 4
-*
-*
+* Allison Sampaio
+* Rodrigo Paula da Silva
 
+### Grupo 5
+* Lucas Vinicius Ribeiro
+* Lucas Souza Santos
+
+### Grupo 6
+* Alan Rodrigo Patriarca Santana
+* Henrique Hércules Lopes dos Santos
+
+### Grupo 7
+* Otávio Goes
+
+### Grupo 8
+* Luis Otavio Oliveira Capelari 
+* Luiz Henrique de Barros de Oliveira
+
+### Grupo 9
+* Thiago Alexsander
