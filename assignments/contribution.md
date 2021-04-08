@@ -18,7 +18,7 @@ Ao final do semestre, espera-se que você tenha **uma ou mais contribuições en
 
 | Etapa | Entrega esperada | Prazo
 | ------|------------------|-------|
-| Video Logs| Videos relatando o que foi feito na semana, problemas, soluções e planos para a próxima semana| Todas as semanas <br> Até a aula de quinta|
+| ([Vídeo logs](#VideoLogs))| Videos relatando o que foi feito na semana, problemas, soluções e planos para a próxima semana| Todas as semanas <br> Até a aula de quinta|
 | Checkpoint 0 | ** Apresentação (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição. Nada muito complexo, apenas apresentar sobre o que é o projeto, tamanho, razão da escolha, tipos de tarefas que acham que existe, etc. | 15-Abril |
 | Checkpoint 1 | ** Apresentação <br> ** Apresentar os detalhes da (s) tarefa (s) que pretendem atacar no projeto; apresentar um relatório de progresso (apresentação oral mesmo) <br> A apresentação deve ter ainda: <br> * Primeiras impressões / existência de diretrizes <br> * Análise arquitetural do software (documento) <br> * pontos de contato; passos já andados | 29-Abril |
 | Checkpoint 2 | ** Apresentação do grupo + instrutor apenas ** <br> Relatório de progresso (perguntas e respostas tipo uma prova oral) | 13-Maio |
@@ -26,7 +26,7 @@ Ao final do semestre, espera-se que você tenha **uma ou mais contribuições en
 | Contribuição para o projeto ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | Até 25-Maio|
 
 
-### Video Logs
+### VideoLogs
 A cada semana, a dupla deverá gravar um video log de 2-5 minutos, reportando o que foi feito, como foi feito, quais problemas foram encontrados. O Video log pode conter compartilhamento de telas, slides, figuras, ou o que o grupo achar necessário. É importante mostrar o que foi feito e como problemas foram resolvidos, bem como deixar o alerta de potenciais problemas que estejam bloqueando o andamento. A análise do andamento/progresso será feito com base nesses videos.
 
 Caso o grupo não se sinta confortável com fazer um vídeo, um áudio ou relatório textual será suficiente. 
