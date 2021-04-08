@@ -18,6 +18,7 @@ Ao final do semestre, espera-se que você tenha **uma ou mais contribuições en
 
 | Etapa | Entrega esperada | Prazo
 | ------|------------------|-------|
+| Video Logs| Videos relatando o que foi feito na semana, problemas, soluções e planos para a próxima semana| Todas as semanas <br> Até a aula de quinta|
 | Checkpoint 0 | ** Apresentação (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição. Nada muito complexo, apenas apresentar sobre o que é o projeto, tamanho, razão da escolha, tipos de tarefas que acham que existe, etc. | 15-Abril |
 | Checkpoint 1 | ** Apresentação <br> ** Apresentar os detalhes da (s) tarefa (s) que pretendem atacar no projeto; apresentar um relatório de progresso (apresentação oral mesmo) <br> A apresentação deve ter ainda: <br> * Primeiras impressões / existência de diretrizes <br> * Análise arquitetural do software (documento) <br> * pontos de contato; passos já andados | 29-Abril |
 | Checkpoint 2 | ** Apresentação do grupo + instrutor apenas ** <br> Relatório de progresso (perguntas e respostas tipo uma prova oral) | 13-Maio |
