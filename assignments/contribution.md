@@ -1,10 +1,10 @@
 # Contribuição para um projeto de software de software livre
 
-**GRUPO**
+**DUPLAS**
 
 **Prazo**: MÚLTIPLOS (OLHOS ABERTOS)
 
-Solicita-se que você faça uma contribuição significativa para um projeto de software livre. Você precisará interagir com a comunidade e a base de código existente. Você DEVE fazer uma contribuição de código. Você pode começar com uma pequena contribuição na documentação ou tradução para aprender o processo (embora isso não seja obrigatório).
+Você deve fazer uma contribuição significativa para um projeto de software livre. Você precisará interagir com a comunidade e a base de código **existente**. Você DEVE fazer uma contribuição **de código**. Você pode começar com uma pequena contribuição na documentação ou tradução para aprender o processo (embora isso não seja obrigatório).
 
 O primeiro passo para isso é escolher um projeto. Há alguns deles que eu prevejo que podem acomodar alguns de vocês:
 
@@ -12,29 +12,35 @@ O primeiro passo para isso é escolher um projeto. Há alguns deles que eu preve
 
 * [Querido Diario](https://github.com/okfn-brasil/querido-diario) -  O projeto Querido Diário propõe utilizar inteligência artificial para classificar, contextualizar e expandir a informação contida nos diários oficiais municipais brasileiros, tornando-os disponíveis em uma plataforma que permitirá sua visualização em formato aberto e amigável. Desenvolvido em Python (Scrapy) é um ótimo projeto com finalidade de ajudar a sociedade.
 
-Ao final do semestre, espera-se que você tenha uma ou mais contribuições enviadas, avaliadas por pares (em sala de aula), revisadas pelos membros do projeto e aceitas. Aqui estão as etapas gerais e datas (mais detalhes em breve).
+Ao final do semestre, espera-se que você tenha **uma ou mais contribuições enviadas**, avaliadas por pares (em sala de aula), revisadas pelos membros do projeto e aceitas. Aqui estão as etapas gerais e datas (mais detalhes em breve).
 
 ** TUDO PRODUZIDO DURANTE O CURSO DEVE SER REVISADO POR OUTRO GRUPO ANTES DA APRESENTAÇÃO FINAL **
 
 | Etapa | Entrega esperada | Prazo
 | ------|------------------|-------|
-| Checkpoint 0 | ** Apresentação stand up (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição | |
-| Checkpoint 1 | ** Apresentação <br> ** \ * Apresentar os detalhes da (s) tarefa (s) + relatório de progresso <br> * Disponibilidade das primeiras impressões / diretrizes <br> * Análise arquitetural do software (documento) | |
-| Ponto de verificação 2 | ** Apresentação do grupo + instrutor ** <br> Relatório de progresso | |
-| Apresentação| Apresentação final (grupo + instrutor)| |
-| Contribution to Open Source ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | |
+| Checkpoint 0 | ** Apresentação (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição. Nada muito complexo, apenas apresentar sobre o que é o projeto, tamanho, razão da escolha, tipos de tarefas que acham que existe, etc. | 15-Abril |
+| Checkpoint 1 | ** Apresentação <br> ** Apresentar os detalhes da (s) tarefa (s) que pretendem atacar no projeto; apresentar um relatório de progresso (apresentação oral mesmo) <br> A apresentação deve ter ainda: <br> * Primeiras impressões / existência de diretrizes <br> * Análise arquitetural do software (documento) <br> * pontos de contato; passos já andados | 29-Abril |
+| Checkpoint 2 | ** Apresentação do grupo + instrutor apenas ** <br> Relatório de progresso (perguntas e respostas tipo uma prova oral) | 13-Maio |
+| Apresentação| Apresentação final (grupo + instrutor)|  |
+| Contribuição para o projeto ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | Até 25-Maio|
+
 
 ### Video Logs
 A cada semana, a dupla deverá gravar um video log de 2-5 minutos, reportando o que foi feito, como foi feito, quais problemas foram encontrados. O Video log pode conter compartilhamento de telas, slides, figuras, ou o que o grupo achar necessário. É importante mostrar o que foi feito e como problemas foram resolvidos, bem como deixar o alerta de potenciais problemas que estejam bloqueando o andamento. A análise do andamento/progresso será feito com base nesses videos.
 
+Caso o grupo não se sinta confortável com fazer um vídeo, um áudio ou relatório textual será suficiente. 
 
-*CASO O PROJETO SEJA HOSPEDADO NO GITHUB*: O grupo precisará fazer a curadoria de um fork do projeto em que trabalhará. Todos os commits precisam se tornar um Pull Request neste fork para treinar os alunos no uso do git e também no uso do GitHub. Para fazer isso, é recomendado que você crie um fork central, e cada aluno do grupo crie um "sub-fork". Sempre que houver um pull request pronto para revisão. Depois de receber a aprovação da revisão, você pode prosseguir e criar uma  pull request para o outro projeto.
-
-
-*CASO O PROJETO SEJA HOSPEDADO **FORA** GITHUB*: O grupo precisará fazer a curadoria de um clone do projeto no qual trabalhará. Sempre que houver um patch pronto para revisão, o instrutor (eu) informará como rosseguir com a revisão. Depois de receber a aprovação, você pode prosseguir e enviá-lo da forma que o projeto deseja.
+**Entrega do videolog:** Enviar o link via email para igorfs [] utfpr.edu.br. Se preferir documento, enviar anexado. *Assunto do email:* ["SL2021]: VideoLog Semanal". As entregas devem ocorrer sempre antes da aula de quinta-feira até a data da apresentação final *(dias 15-Abril, 22-Abril, 29-Abril, 6-Maio, 13-Maio, 20-Maio)*
 
 
 
 ### Relatório final
 
 Cada grupo redigirá um documento descrevendo o processo de contribuição de um grande projeto de código aberto existente, com base na investigação das informações disponíveis publicamente sobre este projeto. Essa é a entrega final do projeto e pode conter problemas enfrentados durante o processo, como você aplicou seus conhecimentos e que tipo de novas habilidades o grupo adquiriu durante essa jornada. Ele precisa apresentar uma visão geral do projeto e da tarefa, seguido pelos detalhes do seu processo de contribuição.
+
+
+### Mais informações
+
+*CASO O PROJETO SEJA HOSPEDADO NO GITHUB*: O grupo precisará fazer a curadoria de um fork do projeto em que trabalhará. Todos os commits precisam se tornar um Pull Request neste fork para treinar os alunos no uso do git e também no uso do GitHub. Para fazer isso, é recomendado que você crie um fork central, e cada aluno do grupo crie um "sub-fork". Sempre que houver um pull request pronto para revisão. Depois de receber a aprovação da revisão, você pode prosseguir e criar uma  pull request para o outro projeto.
+
+*CASO O PROJETO SEJA HOSPEDADO **FORA** GITHUB*: O grupo precisará fazer a curadoria de um clone do projeto no qual trabalhará. Sempre que houver um patch pronto para revisão, o instrutor (eu) informará como rosseguir com a revisão. Depois de receber a aprovação, você pode prosseguir e enviá-lo da forma que o projeto deseja.
