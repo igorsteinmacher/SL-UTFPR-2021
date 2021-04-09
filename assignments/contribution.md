@@ -31,7 +31,7 @@ A cada semana, a dupla deverá gravar um video log de 2-5 minutos, reportando o 
 
 Caso o grupo não se sinta confortável com fazer um vídeo, um áudio ou relatório textual será suficiente. 
 
-**Entrega do videolog:** Enviar o link via email para igorfs [] utfpr.edu.br. Se preferir documento, enviar anexado. *Assunto do email:* ["SL2021]: VideoLog Semanal". As entregas devem ocorrer sempre antes da aula de quinta-feira até a data da apresentação final *(dias 15-Abril, 22-Abril, 29-Abril, 6-Maio, 13-Maio, 20-Maio)*
+**Entrega do videolog:** Enviar o link via email para igorfs [] utfpr.edu.br. Se preferir documento, enviar anexado. *Assunto do email:* "[SL2021]: VideoLog Semanal". As entregas devem ocorrer sempre antes da aula de quinta-feira até a data da apresentação final *(dias 15-Abril, 22-Abril, 29-Abril, 6-Maio, 13-Maio, 20-Maio)*
 
 
 
