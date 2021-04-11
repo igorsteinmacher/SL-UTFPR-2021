@@ -29,6 +29,7 @@ Adicionem suas duplas:
 ### Grupo 7
 * Otávio Goes
 
-### Grupo 8
+### Grupo 8 
+[Projeto](https://github.com/UTFPR-SL/Group8)
 * Luis Otavio Oliveira Capelari 
 * Luiz Henrique de Barros de Oliveira
