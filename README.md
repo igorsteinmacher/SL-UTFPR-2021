@@ -6,9 +6,9 @@
 
 **PAluno**: Quintas-feiras 19:30-21:10
 
-**Aulas**: Terça-feira 19:30-21:10 / Quinta-feira (Assíncrona, mas estarei disponível das 21:20-23:00)
+**Aulas**: Terça-feira / Quinta-feira 19:30-21:10 
 
-**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
+**Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Quintas serão síncronas, terças serão atividades assíncronas
 
 **SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/slack-kv98670/shared_invite/zt-roupl7v9-c0_P~2vMgY_Ur2NDrA5b3g) para acessar o curso 
 
