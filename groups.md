@@ -3,8 +3,7 @@
 Adicionem suas duplas:
 
 ### Grupo 1
-*
-*
+* Vitor Bueno de Camargo
 
 ### Grupo 2
 *
