@@ -10,7 +10,7 @@
 
 **Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Terças serão síncronas, quintas serão atividades assíncronas
 
-**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/softwarelivre2021/shared_invite/zt-m44n2h3n-~4K_Q8dXNdxwbcMcKAhrCQ) para acessar o curso 
+**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/slack-kv98670/shared_invite/zt-roupl7v9-c0_P~2vMgY_Ur2NDrA5b3g) para acessar o curso 
 
 ## Grupos
 
