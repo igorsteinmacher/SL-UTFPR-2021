@@ -6,8 +6,8 @@ Adicionem suas duplas:
 * Vitor Bueno de Camargo
 
 ### Grupo 2
-*
-*
+* Juliano Cesar Petini
+* Michel Gomes da Souza
 
 ### Grupo 3
 *
