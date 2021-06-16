@@ -10,8 +10,8 @@ Adicionem suas duplas:
 *
 
 ### Grupo 3
-*
-*
+* Danilo Sambugaro de Carlo
+* Darlan Felipe Sousa Andrade
 
 ### Grupo 4
 *
