@@ -14,8 +14,8 @@ Adicionem suas duplas:
 * Darlan Felipe Sousa Andrade
 
 ### Grupo 4
-*
-*
+* Daniel Augusto Rodrigos Farina
+* Thais Zorawski
 
 ### Grupo 5
 *
