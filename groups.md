@@ -10,8 +10,8 @@ Adicionem suas duplas:
 * Michel Gomes da Souza
 
 ### Grupo 3
-*
-*
+* Danilo Sambugaro de Carlo
+* Darlan Felipe Sousa Andrade
 
 ### Grupo 4
 *
