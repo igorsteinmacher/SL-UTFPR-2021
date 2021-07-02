@@ -6,8 +6,8 @@ Adicionem suas duplas:
 * Vitor Bueno de Camargo
 
 ### Grupo 2
-*
-*
+* Daniel Augusto Rodrigos Farina
+* Thais Zorawski
 
 ### Grupo 3
 *
