@@ -8,8 +8,8 @@
 | 29-Jun  |  ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))                    |                                      |                 |
 | 1-Jul  |  [Atividade!!!](assignments/preActivityEssay.md)     |
 | 6-Jul  | Continuacao da Atividade de 1-Jul     |||                | 
-| 8-Jul  |OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf)) |     | [Lidando com o Git](assignments/gitAssignment.md)                                         |
-| 13-Jul |. ** Contribuição para Wikipedia                   |            |
+| 8-Jul  |OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf)) |     | [Lidando com o Git](assignments/gitAssignment.md)  |
+| 13-Jul | ** Contribuição para Wikipedia                   |            |
 | 15-Jul |  Criando um projeto + licença                           |    | [Criar projeto + Escolher licença](assignments/openYourProject.md)                  |
 | 20-Jul |  ** Criando seu projeto               |                 |      |
 | 22-Jul |  Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))                      |            |      [Contribuição para OSS!!](assignments/contribution.md)          |
