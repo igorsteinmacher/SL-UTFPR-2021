@@ -2,7 +2,7 @@
 
 **INDIVIDUAL**
 
-**Entrega**: 18-Mar-21
+**Entrega**: 15-Jul-21
 
 ## Como entregar
 Copie o arquivo em um repositorio que seja seu e coloque as respostas nas caixas abaixo
