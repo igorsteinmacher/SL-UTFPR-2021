@@ -4,10 +4,11 @@
 
 **Deadline**: 
 
-**How to submit**: Enviar por email para o professor o link para o artigo e um resumo da descrição
+**Como submeter**: Enviar por email para o professor o link para o artigo e um resumo da descrição
 
-**Value**: 5%
+**Valor**: 5%
 
+**Prazo**: 22-julho-2021
 
 
 Cada aluno deverá fazer uma contribuição significativa para um artigo da Wikipedia de sua escolha. Isso o apresentará ao processo de contribuição para uma plataforma de crowdsourcing. Crie uma conta (caso ainda não tenha) e vá em frente. Lute a boa luta.
