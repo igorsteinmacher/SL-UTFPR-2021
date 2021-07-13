@@ -2,7 +2,9 @@
 
 **GROUP ASSIGNMENT (pares)**
 
-**How to submit**: Projeto GitHub
+**O que**: Projeto GitHub
+
+**Prazo**: 22/Julho/2021
 
 Espera-se que você crie um projeto de código aberto. Você pode apenas imaginar algo (um produto que você implementaria ou idealizaria), descrevendo-o e descrevendo como seria; ou você pode selecionar qualquer projeto produzido por qualquer um dos membros do grupo (* por exemplo*, uma tarefa para outro curso, um projeto que esteja criando, etc.). Seguindo as informações do livro de Fogel (Capítulo 2)[1] e do opensource.guide[2, 3], torne seu projeto um projeto Open Source. Por enquanto, não pense em licenciar, apenas certifique-se de criar uma boa página, fornecendo documentação significativa e completa, e analisando os itens citados pelas referências acima citadas.
 
