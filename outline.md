@@ -10,8 +10,8 @@
 | 6-Jul  | Continuacao da Atividade de 1-Jul     |||                | 
 | 8-Jul  | OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf)) |     | [Lidando com o Git](assignments/gitAssignment.md)  |
 | 13-Jul | [Lidando com o Git](assignments/gitAssignment.md)              |            |
-| 15-Jul |  Criando um projeto + licença                           |    | [Criar projeto](assignments/openYourProject.md)  /[Contribuir para o Wikipedia](assignments/wikipedia.md)                  |
-| 20-Jul |  ** [Criar projeto](assignments/openYourProject.md)  /[Contribuir para o Wikipedia](assignments/wikipedia.md)   |                 |      |
+| 15-Jul |  Criando um projeto + licença                           |    | [Criar projeto](assignments/openYourProject.md)  / [Contribuir para o Wikipedia](assignments/wikipedia.md)                  |
+| 20-Jul |  ** [Criar projeto](assignments/openYourProject.md)  / [Contribuir para o Wikipedia](assignments/wikipedia.md)   |                 |      |
 | 22-Jul |  Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))  |            |      [Contribuição para OSS!!](assignments/contribution.md)          |
 | 27-Jul | ** Contribuição  | |            |
 | 29-Jul  |                                                 |                                      |                           |
