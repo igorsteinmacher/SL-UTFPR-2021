@@ -18,5 +18,5 @@ Adicionem suas duplas:
 * Thais Zorawski
 
 ### Grupo 5
-*
-*
+*Lucas Gabriel da Silva
+*Marcos Vinicius Golom
