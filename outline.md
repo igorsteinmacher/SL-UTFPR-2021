@@ -15,7 +15,7 @@
 | 22-Jul |  Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))  |            |      [Contribuição para OSS!!](assignments/contribution.md)          |
 | 27-Jul | ** Contribuição  | |            |
 | 29-Jul  |                                                 |                                      |                           |
-| 3-Ago  |   Bots e GitHub                                                |     Criar projeto + Escolher licença |                                       |
+| 3-Ago  |   Bots e GitHub                                                |    |                                       |
 | 5-Ago  | ** Escolha do projeto: criar video apresentacao                               |          |                                       |
 | 10-Ago | Licenças e problemas                                                           | Contribuição (Checkpoint 0) |                               |
 | 12-Ago |                                                                                |                                      |                         |
