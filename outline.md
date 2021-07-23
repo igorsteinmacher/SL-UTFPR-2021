@@ -16,12 +16,12 @@
 | 27-Jul | ** Contribuição  | |            |
 | 29-Jul  |                                                 |                                      |                           |
 | 3-Ago  |   Bots e GitHub                                                |    |                                       |
-| 5-Ago  | ** Escolha do projeto: criar video apresentacao                               |          |                                       |
-| 10-Ago | Licenças e problemas                                                           | Contribuição (Checkpoint 0) |                               |
-| 12-Ago |                                                                                |                                      |                         |
-| 17-Ago | Hot topic                                                                    | Contribuição (Checkpoint 1)          |                         |
+| 5-Ago  | ** Escolha do projeto: criar video apresentacao                               | Contribuição (Checkpoint 0)         |                                       |
+| 10-Ago | Licenças e problemas                                                           |  |                               |
+| 12-Ago |                                                                                | Contribuição (Checkpoint 1)                                     |                         |
+| 17-Ago | Hot topic                                                                    |           |                         |
 | 19-Ago |                                                                                |                                      |                              |
 | 24-Ago | Diversidade em SL                                                              |    |              |
-| 26-Ago |                                                                                 | Contribuição (Checkpoint 2)                                     |                  |
-| 31-Ago  |     HANDS ON!                                                                  |    |                                       |
+| 26-Ago |                                                                                 | Contribuição (Checkpoint 2) - FINAL                                    |                  |
+| 31-Ago  |                                                                       |   Contribuição (Checkpoint 2) - FINAL  |                                       |
 | 2-Set  |                                                                               |       RELATORIO                               |               |
