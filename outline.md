@@ -19,9 +19,9 @@
 | 5-Ago  |  Bots e GitHub                               | Contribuição (Checkpoint 0)         |                                       |
 | 10-Ago |  ** Escolha do projeto: criar video apresentacao                                                          |  |                               |
 | 12-Ago |  Licenças e problemas                                                                                 | Contribuição (Checkpoint 1)                  |  |
-| 17-Ago | Hot topic     |           |                         |
-| 19-Ago |                                                                                |                                      |                              |
-| 24-Ago | Diversidade em SL                                                              |    |              |
+| 17-Ago |    |           |                         |
+| 19-Ago | Diversidade em SL  |                                      |                              |
+| 24-Ago |                                                              |    |              |
 | 26-Ago |                                                                                 | Contribuição (Checkpoint 2) - FINAL                                    |                  |
 | 31-Ago  |                                                                       |   Contribuição (Checkpoint 2) - FINAL  |                                       |
 | 2-Set  |                                                                               |       RELATORIO                               |               |
