@@ -18,7 +18,7 @@
 | 3-Ago  |   |    |                                       |
 | 5-Ago  |  Bots e GitHub                               | Contribuição (Checkpoint 0)         |                                       |
 | 10-Ago |  ** Escolha do projeto: criar video apresentacao                                                          |  |                               |
-| 12-Ago |  Licenças e problemas                                                                                 | Contribuição (Checkpoint 1)                  |  |
+| 12-Ago |  Licenças de SL (com o Dr. Gustavo Pinto)      | Contribuição (Checkpoint 1)                  |  |
 | 17-Ago |    |           |                         |
 | 19-Ago | Diversidade em SL  |                                      |                              |
 | 24-Ago |                                                              |    |              |
