@@ -2,7 +2,7 @@
 
 **INDIVIDUAL**
 
-**Entrega**: 15-Jul-21
+**Entrega**: 28/out - antes da aula
 
 ## Como entregar
 Copie o arquivo em um repositorio que seja seu e coloque as respostas nas caixas abaixo
