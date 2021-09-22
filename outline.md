@@ -8,7 +8,7 @@
 | 7-Out  (Q)| Software Livre: História e Motivos (continuação dos Slides)                          |                                 |                           |
 | 12-Out (T)| FERIADO                                                                              |                                 |                           |
 | 14-Out (Q)| Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))                        |||
-| 19-Out (T)| Hacktoberfest!!!    |                                 |                           |
+| 19-Out (T)| Engajamento em SL: Hacktoberfest e GSoC   |                                 |                           |
 | 21-Out (Q)| OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf))                    |                                 |                           |
 | 26-Out (T)| [Lidando com o Git](assignments/gitAssignment.md)                                    |                     |                           |
 | 28-Out (Q)| Revisão de código por pares ([Slides](notes/Lecture_04.pdf))                         |                                 |                           |
