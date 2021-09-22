@@ -1,7 +1,7 @@
 ## Catedral e o Bazar
 
 * *Em duplas*
-* *Entrega até dia 11/julho ANTES DA AULA*
+* *Entrega até dia 7/outubro ANTES DA AULA*
 
 Leiam o livro [A Catedral e o Bazaar](https://www.ufrgs.br/soft-livre-edu/arquivos/a-catedral-e-o-bazar-eric-raymond.pdf).
 
