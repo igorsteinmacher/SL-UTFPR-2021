@@ -6,11 +6,9 @@
 
 Você deve fazer uma contribuição significativa para um projeto de software livre. Você precisará interagir com a comunidade e a base de código **existente**. Você DEVE fazer uma contribuição **de código**. Você pode começar com uma pequena contribuição na documentação ou tradução para aprender o processo (embora isso não seja obrigatório).
 
-O primeiro passo para isso é escolher um projeto. Há alguns deles que eu prevejo que podem acomodar alguns de vocês:
+O primeiro passo para isso é escolher um projeto. Pode acomodar vocês:
 
 * [Jabref](http://www.github.com/Jabref/Jabref) - Gerenciador de citações. Desenvolvido principalmente em Java. O pessoal da JabRef está entusiasmado com a aplicação do MVVM em seus projetos. É um bom aprendizado e, com certeza, ajudará a comunidade. Use o wiki como ponto de partida para o desenvolvimento. Além disso, há um exemplo das coisas JavaFX em relação ao padrão MVVM. Aqui [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. A comunidade está ciente de que você está trabalhando neste curso.
-
-* [Querido Diario](https://github.com/okfn-brasil/querido-diario) -  O projeto Querido Diário propõe utilizar inteligência artificial para classificar, contextualizar e expandir a informação contida nos diários oficiais municipais brasileiros, tornando-os disponíveis em uma plataforma que permitirá sua visualização em formato aberto e amigável. Desenvolvido em Python (Scrapy) é um ótimo projeto com finalidade de ajudar a sociedade.
 
 Ao final do semestre, espera-se que você tenha **uma ou mais contribuições enviadas**, avaliadas por pares (em sala de aula), revisadas pelos membros do projeto e aceitas. Aqui estão as etapas gerais e datas (mais detalhes em breve).
 
@@ -19,11 +17,10 @@ Ao final do semestre, espera-se que você tenha **uma ou mais contribuições en
 | Etapa | Entrega esperada | Prazo
 | ------|------------------|-------|
 | ([Vídeo logs](#VideoLogs))| Videos relatando o que foi feito na semana, problemas, soluções e planos para a próxima semana| Todas as semanas <br> Até a aula de quinta|
-| Checkpoint 0 | ** Apresentação (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição. Nada muito complexo, apenas apresentar sobre o que é o projeto, tamanho, razão da escolha, tipos de tarefas que acham que existe, etc. | 05-Ago |
-| Checkpoint 1 | ** Apresentação <br> ** Apresentar os detalhes da (s) tarefa (s) que pretendem atacar no projeto; apresentar um relatório de progresso (apresentação oral mesmo) <br> A apresentação deve ter ainda: <br> * Primeiras impressões / existência de diretrizes <br> * Análise arquitetural do software (documento) <br> * pontos de contato; passos já andados | 12-Ago |
-| Checkpoint 2 | ** Apresentação do grupo + instrutor apenas ** <br> Relatório de progresso (perguntas e respostas tipo uma prova oral) | 26-Ago ou 31-Ago |
-| Apresentação| Apresentação final (grupo + instrutor)|  |
-| Contribuição para o projeto ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | Até 2-Set|
+| Checkpoint 0 | ** Apresentação (5-7 minutos) ** <br> Decisão sobre o projeto e plano de etapas para contribuição. Nada muito complexo, apenas apresentar sobre o que é o projeto, tamanho, razão da escolha, tipos de tarefas que acham que existe, etc. | 18-Nov |
+| Checkpoint 1 | ** Apresentação <br> ** Apresentar os detalhes da (s) tarefa (s) que pretendem atacar no projeto; apresentar um relatório de progresso (apresentação oral mesmo) <br> A apresentação deve ter ainda: <br> * impressões sobre o projeto/diretrizes <br> * análise arquitetural do software (frameworks, padrões, linguagens, etc) <br> * pontos de contato; <br>* passos já andados | 2-Dez 
+| Apresentação| Apresentação final (para a turma)| Ultima semana de aula |
+| Contribuição para o projeto ([Relatorio Final](#Relatório-final)) | Resumo do processo de contribuição (recomendo que seja escrito em tempo real para evitar o esquecimento) | Até 16-Dez|
 
 
 ### VideoLogs
