@@ -1,27 +1,28 @@
 
-|           |                                                                                |     Entrega (deadline)               |     Novo trabalho         |
-|-----------|--------------------------------------------------------------------------------|--------------------------------------|---------------------------|
-| 15-Jun | Sobre a Disciplina ([Slides](notes/Lecture_01.pdf))                            |                                      |                           | 
-| 17-Jun | Software Livre: Introdução ([Slides](notes/Lecture_02.pdf))                    |                                      |                           | 
-| 22-Jun | ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md)) |                               |                           |
-| 24-Jun  | Software Livre: História e Motivos (continuação dos Slides) |                               |                           |
-| 29-Jun  |  ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))                    |                                      |                 |
-| 1-Jul  |  [Atividade!!!](assignments/preActivityEssay.md)     |
-| 6-Jul  | Continuacao da Atividade de 1-Jul     |||                | 
-| 8-Jul  | OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf)) |     | [Lidando com o Git](assignments/gitAssignment.md)  |
-| 13-Jul | [Lidando com o Git](assignments/gitAssignment.md)              |            |
-| 15-Jul | Revisão de código por pares ([Slides](notes/Lecture_04.pdf))  |    |  [Contribuir para o Wikipedia](assignments/wikipedia.md)                  |
-| 20-Jul |  ** [Contribuir para o Wikipedia](assignments/wikipedia.md)   |                 |      |
-| 22-Jul |  Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))  |            |      [Contribuição para OSS!!](assignments/contribution.md)          |
-| 27-Jul | Contribuição  | |            |
-| 29-Jul | Dúvidas sobre a contribuição? |                                      |                           |
-| 3-Ago  |   |    |                                       |
-| 5-Ago  |  Bots e GitHub                               | Contribuição (Checkpoint 0)         |                                       |
-| 10-Ago |  ** Escolha do projeto: criar video apresentacao                                                          |  |                               |
-| 12-Ago |  Licenças de SL (com o Dr. Gustavo Pinto)      | Contribuição (Checkpoint 1)                  |  |
-| 17-Ago |    |           |                         |
-| 19-Ago | Diversidade em SL  |                                      |                              |
-| 24-Ago |                                                              |    |              |
-| 26-Ago |                                                                                 | Contribuição (Checkpoint 2) - FINAL                                    |                  |
-| 31-Ago  |                                                                       |   Contribuição (Checkpoint 2) - FINAL  |                                       |
-| 2-Set  |                                                                               |       RELATORIO                               |               |
+|           |                                                                                      |     Entrega (deadline)          |     Novo trabalho         |
+|-----------|--------------------------------------------------------------------------------------|---------------------------------|---------------------------|
+| 23-Set (Q)| Sobre a Disciplina ([Slides](notes/Lecture_01.pdf))                                  |                                 |                           | 
+| 28-Set (T)| ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md))|                                 |                           | 
+| 30-Set (Q)| Software Livre: Introdução ([Slides](notes/Lecture_02.pdf))                          |                                 |                           |
+| 5-Set  (T)| ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))                |                                 |                           |
+| 7-Out  (Q)| Software Livre: História e Motivos (continuação dos Slides)                          |                                 |                           |
+| 12-Out (T)| [Atividade!!!](assignments/preActivityEssay.md)                                      |                                 |                           |
+| 14-Out (Q)| FERIADO |||
+| 19-Out (T)| Atividade - Etnografia                                                               |                                 |                           |
+| 21-Out (Q)| OSS Infrastructure: Git e GitHub ([Slides](notes/Lecture_03.pdf)).                   |                                 |                           |
+| 26-Out (T)| [Lidando com o Git](assignments/gitAssignment.md).                                   |                                 |                           |
+| 28-Out (Q)| Revisão de código por pares ([Slides](notes/Lecture_04.pdf))                         |                 |      |
+| 2-Nov  (T)|  ** [Contribuir para o Wikipedia](assignments/wikipedia.md) |                        |      [Contribuição para OSS!!](assignments/contribution.md)          |
+| 4-Nov  (Q)| Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))   | |            |
+| 9-Nov  (T)| Contribuição: Andamento |                                      |                           |
+| 11-Nov (Q)|  Dúvidas e andamento (presença não obrigatória) |    |                                       |
+| 16-Nov (T)|  Comunicação en projetos de SL                                          |         |                           |
+| 18-Nov (Q)|  ** Escolha do projeto: criar video apresentacao                                                          |  |                               |
+| 23-Nov (T)|  Licenças de SL (com o Dr. Gustavo Pinto)      | Contribuição (Checkpoint 1)                  |  |
+| 25-Nov (Q)|    |           |                         |
+| 30-Nov (T)| Diversidade em SL  |                                      |                              |
+| 2-Dez  (Q)|                                                                                 | Contribuição (Checkpoint 2) - FINAL    |    |
+| 7-Dez  (T)|                                                                       |   Contribuição (Checkpoint 2) - FINAL  |                                     |
+| 9-Dez  (Q)|                                                                               |       RELATORIO                               |               |
+| 14-Dez (T)|
+| 16-Dez (Q)
