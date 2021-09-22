@@ -2,7 +2,7 @@
 
 * **EM DUPLAS** Se você não tem, dê um jeito e insira suas duplas [no arquivo](../groups.md)
 
-* **Começar em sala e entregar até 08/07** 
+* **Começar em sala e entregar até 21/10** 
 
 1. Responda o seguinte formulário: https://forms.gle/xG4ydRSPxjkiPuYb6
 
