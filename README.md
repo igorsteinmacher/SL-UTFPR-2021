@@ -4,13 +4,11 @@
 
 **Email**: igorfs@utfpr.edu.br
 
-**PAluno**: Quintas-feiras 19:30-21:10
-
 **Aulas**: Terça-feira 19:30-21:10 / Quinta-feira 21:20-23:00
 
 **Planejamento das aulas**: [Clique Aqui](outline.md) para ver a agenda: Quintas serão síncronas, terças serão atividades assíncronas
 
-**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/slack-kv98670/shared_invite/zt-roupl7v9-c0_P~2vMgY_Ur2NDrA5b3g) para acessar o curso 
+<!--**SLACK:** Discutam, conversem, criem grupos de estudo, etc. [Clique aqui 👋](https://join.slack.com/t/slack-kv98670/shared_invite/zt-roupl7v9-c0_P~2vMgY_Ur2NDrA5b3g) para acessar o curso -->
 
 ## Grupos
 
