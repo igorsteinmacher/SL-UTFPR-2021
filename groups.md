@@ -3,7 +3,8 @@
 Adicionem suas duplas:
 
 ### Grupo 1
-* 
+* Vitor Bueno de Camargo
+* Lucas Santana Rocha
 
 ### Grupo 2
 * 
