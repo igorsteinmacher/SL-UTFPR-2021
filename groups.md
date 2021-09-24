@@ -6,8 +6,8 @@ Adicionem suas duplas:
 * 
 
 ### Grupo 2
-* 
-*
+* Enzo Italiano
+* Henrique Marcuzzo
 
 ### Grupo 3
 * 
