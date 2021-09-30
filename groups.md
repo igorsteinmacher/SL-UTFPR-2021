@@ -11,8 +11,8 @@ Adicionem suas duplas:
 * Henrique Marcuzzo
 
 ### Grupo 3
-* 
-*
+* Luan Castro
+* Gabriel Apolinario
 
 ### Grupo 4
 * 
