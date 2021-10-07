@@ -3,9 +3,9 @@
 |-----------|--------------------------------------------------------------------------------------|---------------------------------|---------------------------|
 | 23-Set (Q)| Sobre a Disciplina ([Slides](notes/Lecture_01.pdf))                                  |                                 |                           | 
 | 28-Set (T)| ** Como montar um negócio baseado em SL? ([Atividade](assignments/howToMakeMoney.md))|                                 |                           | 
-| 30-Set (Q)| Software Livre: Introdução ([Slides](notes/Lecture_02.pdf))                          |                                 |                           |
+| 30-Set (Q)| CANCELADO                                                                            |                                 |                           |
 | 5-Set  (T)| ** Atividade Catedral e o Bazar ([Atividade](assignments/cathbaz.md))                |                                 |                           |
-| 7-Out  (Q)| Software Livre: História e Motivos (continuação dos Slides)                          |                                 |                           |
+| 7-Out  (Q)| Software Livre: Introdução ([Slides](notes/Lecture_02.pdf))                          |                                 |                           |
 | 12-Out (T)| FERIADO                                                                              |                                 |                           |
 | 14-Out (Q)| Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))                        |||
 | 19-Out (T)| [Atividade - Etnografia](assignments/preActivityEssay.md)                            |                                 |                           |
