@@ -27,7 +27,7 @@ No total, o trabalho não deve exceder 2 páginas. Se apropriado, sinta-se à vo
 
 A parte 1 deve ser feita em sala. A parte 2 deve ser iniciada em sala.
 
-O relatório completo deve ser enviado até o dia 25/03 para meu email com o assunto SL 2021: Tarefa Pre-contrib
+O relatório completo deve ser enviado até o dia 21/10 para meu email com o assunto SL 2021-2: Tarefa Pre-contrib
 
 Contributors suggested:
 * https://github.com/tobiasdiez
