@@ -10,7 +10,7 @@
 2. Analise (manualmente) o processo de como os contribuidores abaixo começaram e evoluíram como colaboradores do software livre,
 com base em suas atividades públicas no GitHub. De acordo com o que você encontrar, diferentes tipos de perguntas serão interessantes de responder, como:
 * *Qual foi a primeira contribuição deles para um projeto de software livre?*
-* *Eles trabalham principalmente em seus próprios projetos ou contribuem principalmente para os repositórios de outros?* ou ainda
+* *Eles trabalham principalmente em seus próprios projetos ou contribuem principalmente para os repositórios de outros?*
 * *Quanto tempo levou para avaliar as contribuições de outros desenvolvedores, fornecendo revisões de código?* 
 * *Quando eles abriram sua primeira issue?* 
 * *Que desafios eles tiveram que superar (por exemplo, solicitações de pull sendo ignoradas, revisões de código indelicadas)?* 
