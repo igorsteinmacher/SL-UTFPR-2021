@@ -10,7 +10,7 @@
 | 14-Out (Q)| Contribuindo para um projeto ([Slides](notes/Lecture_05.pdf))                        |||
 | 19-Out (T)| [Atividade - Etnografia](assignments/preActivityEssay.md)                            |                                 |                           |
 | 21-Out (Q)| Revisão de código por pares ([Slides](notes/Lecture_04.pdf))                    |                                 |                           |
-| 26-Out (T)| [Lidando com o Git](assignments/gitAssignment.md) [Slides apoio](notes/Lecture_03.pdf) <br>[Learning git page](https://learngitbranching.js.org/)                               |                     |                           |
+| 26-Out (T)| [Lidando com o Git](assignments/gitAssignment.md) <br>[Slides apoio](notes/Lecture_03.pdf) <br>[Learning git page](https://learngitbranching.js.org/)                               |                     |                           |
 | 28-Out (Q)| NAO HAVERA AULA                         |                                 |                        |
 | 2-Nov  (T)| FERIADO                       |                                 |                           | 
 | 4-Nov  (Q)| Governança em projetos de Software Livre                                             |                                 |                           |
