@@ -15,8 +15,8 @@ Adicionem suas duplas:
 * Gabriel Apolinario
 
 ### Grupo 4
-* 
-*
+* Brendow Paolillo
+* Isabela Gantzel
 
 ### Grupo 5
 *
