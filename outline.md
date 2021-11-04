@@ -14,7 +14,7 @@
 | 28-Out (Q)| NAO HAVERA AULA                         |                                 |                        |
 | 2-Nov  (T)| FERIADO                       |                                 |                           | 
 | 4-Nov  (Q)| Governança em projetos de Software Livre                                             |                                 |                           |
-| 9-Nov  (T)| Contribuição: Andamento                                                              |                                 |                           |
+| 9-Nov  (T)| [Contribuição: AVANTE](assignments/contribution.md)                                                             |                                 |                           |
 | 11-Nov (Q)| Dúvidas e andamento (presença não obrigatória)                                       |                                 |                           |
 | 16-Nov (T)|                                                                                      |                                 |                           |
 | 18-Nov (Q)| [Contribuição (Checkpoint 0)](assignments/contribution.md)                    |      |                           |
