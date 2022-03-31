@@ -1,4 +1,4 @@
-# Desenvolvimento de Software Livre 
+# Desenvolvimento de Software Livre (Disciplina finalizada)
 
 **Professor**: Dr. Igor Steinmacher
 
