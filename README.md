@@ -14,7 +14,7 @@
 
 Quando definir seu par, adicione os nomes aqui na [página de grupos](groups.md). Faça isso [alterando a página](groups.md) e criando um pull request.
 
-## Referencia
+## Referencia 
 
 O livro principal aqui é:
 * FOGEL, Karl. **Producing Open Source Software**. O'Reilly. Available online:  http://producingoss.com (Creative Commons)
